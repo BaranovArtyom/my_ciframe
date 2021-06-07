@@ -1,0 +1,102 @@
+
+
+
+// /**Получение заказов которые были изменены в VM */
+// $getModifOrdersVM = mysqli_query($db,"SELECT * FROM `rtd_virtuemart_orders` WHERE `modified_on` > '$s' "); // получений заказов за день
+// foreach ($getModifOrdersVM as $ordVM ) {
+//     dd($ordVM['order_number']);
+//     // dd($ordVM['order_states']);
+//     dd($ordVM['order_status']); 
+//     if ($ordVM['order_status'] == "C"){
+//         // echo 'Заказ оплачен и готовится к отправке';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[7]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ оплачен и готовится к отправке"."\n",FILE_APPEND);
+//         // dd($putStatus);
+//     }elseif ($ordVM['order_status'] == "M") {
+//         echo 'Заказ подтвержден. Ожидаем оплату (Сбербанк)';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[1]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ подтвержден. Ожидаем оплату (Сбербанк)"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }elseif ($ordVM['order_status'] == "K") {
+//         echo 'Заказ подтвержден. Ожидаем оплату (Сбер)';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[2]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ подтвержден. Ожидаем оплату (Сбер)"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }elseif ($ordVM['order_status'] == "O") {
+//         echo 'Заказ подтвержден. Ожидаем оплату (Яндекс)';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[6]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ подтвержден. Ожидаем оплату (Яндекс)"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }
+//     elseif ($ordVM['order_status'] == "F") {
+//         echo 'Заказ подтвержден. Ожидаем оплату (ВТБ)';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[4]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ подтвержден. Ожидаем оплату (ВТБ)"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }elseif ($ordVM['order_status'] == "U") {
+//         echo 'Заказ подтвержден. Ожидаем оплату (Тинькофф)';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[3]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ подтвержден. Ожидаем оплату (Тинькофф)"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }elseif ($ordVM['order_status'] == "A") {
+//         echo 'Заказ предоплачен';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[9]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ предоплачен"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }elseif ($ordVM['order_status'] == "R") {
+//         echo 'Заказ подтвержден с изменениями. Ожидаем оплату';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[15]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ подтвержден с изменениями. Ожидаем оплату"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }elseif ($ordVM['order_status'] == "S") {
+//         echo 'Заказ отправлен';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[8]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ отправлен"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }
+//     elseif ($ordVM['order_status'] == "X") {
+//         echo 'Заказ отменен';
+//         $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//         $putStatus = putStatus($getIdOrder, $ordStatus[11]['meta']);
+//         file_put_contents('logger.log',date('Y-m-d H:i:s').' обновлен заказ  '.$ordVM['order_number'] ." ". "Заказ отменен"."\n",FILE_APPEND);
+
+//         // dd($putStatus);
+
+//     }
+
+//     // $getIdOrder = getIdOrder($ordVM['order_number']);  //получение id по номеру заказа
+//     dd($getIdOrder);
+
+// }
+// exit;
+// exit;
+// получение доставки
+// $virtuemart_order_id = 26276;
+// // $getShipmethod = mysqli_fetch_row(mysqli_query($db,"SELECT * FROM `rtd_virtuemart_order_calc_rules` WHERE `virtuemart_order_id` = '$numberOrder ' "));
+// $getShipOrder = getShipOrder($db, $virtuemart_order_id);
+// dd($getShipOrder);exit;

@@ -1,0 +1,66 @@
+============[Date]============
+[ 2021-02-26 20:15:16  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 475257873
+ref.callback_query.id= 11997869874481438
+ref.callback_query.from.id= 2793471
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Lola☀️
+ref.callback_query.from.username= EuroAutoParts_Group
+ref.callback_query.from.language_code= en
+ref.callback_query.message.message_id= 357
+ref.callback_query.message.from.id= 1426615532
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= TIRSHOP
+ref.callback_query.message.from.username= tirzapchasti_bot
+ref.callback_query.message.chat.id= 2793471
+ref.callback_query.message.chat.first_name= Lola☀️
+ref.callback_query.message.chat.username= EuroAutoParts_Group
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1612332633
+ref.callback_query.message.photo.0.file_id= AgACAgQAAxkDAAIBZWA5OrQmijivBIKOh8j2Vu6D0hddAAK_qzEbtk-MUhptXES2g2T9hFo0J10AAwEAAwIAA20AAxEmAwABHgQ
+ref.callback_query.message.photo.0.file_unique_id= AQADhFo0J10AAxEmAwAB
+ref.callback_query.message.photo.0.file_size= 2432
+ref.callback_query.message.photo.0.width= 320
+ref.callback_query.message.photo.0.height= 320
+ref.callback_query.message.photo.1.file_id= AgACAgQAAxkDAAIBZWA5OrQmijivBIKOh8j2Vu6D0hddAAK_qzEbtk-MUhptXES2g2T9hFo0J10AAwEAAwIAA3gAAw8mAwABHgQ
+ref.callback_query.message.photo.1.file_unique_id= AQADhFo0J10AAw8mAwAB
+ref.callback_query.message.photo.1.file_size= 4632
+ref.callback_query.message.photo.1.width= 500
+ref.callback_query.message.photo.1.height= 500
+ref.callback_query.message.caption= HENGST Моторное масло для легковых автомобилей Полусинтетическое 10W-40 A3/B4 Pr
+
+Цена: 205800 uzs
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= ✅ Добавить в корзину
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= add_26649
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🛒 Корзина
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cart_
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= ↻ В меню
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= menu_btn
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= ↶ Назад
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= masla_
+ref.callback_query.chat_instance= 2442973788300258827
+ref.callback_query.data= menu_btn
+
+
+[ref]
+ref.message_id= 357
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(110): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(185): MyTgBot->sendMenu()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(838): MyTgBot->handleDescription()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(911): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(947): MyTgBot->run()
+#9 {main}
+

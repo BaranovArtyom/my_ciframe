@@ -1,0 +1,11 @@
+cache_entity_node
+search_api_db_catalog_index_search_api_access_node/ search_api_db_catalog_index_field_product/ search_api_db_catalog_index
+Для публикации на сайте таблица - search_api_db_catalog_index search_api_db_default_node_index
+1.Для добавление товаров в главный node field_data_field_product
+2.commerce_product/commerce_product_revision  добавление
+3.field_data_commerce_price  / field_revision_commerce_price
+commerce_product_revision меняем статус для публикации в товаре 
+field_revision_field_product таблица с товарами принадлежащей этой группе
+field_data_field_product_category категория node
+
+field_data_name_field имена категория ноде

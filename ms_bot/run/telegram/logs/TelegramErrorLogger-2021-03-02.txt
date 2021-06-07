@@ -1,0 +1,243 @@
+============[Date]============
+[ 2021-03-02 15:59:18  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message to delete not found
+=========[Sent Data]==========
+[ref]
+ref.update_id= 22576867
+ref.callback_query.id= 901281984887546525
+ref.callback_query.from.id= 209846064
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Dmitry
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 48
+ref.callback_query.message.from.id= 1611843385
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= WBS
+ref.callback_query.message.from.username= chivas21_bot
+ref.callback_query.message.chat.id= 209846064
+ref.callback_query.message.chat.first_name= Dmitry
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1614693556
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Spirits
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_104
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= search_btn
+ref.callback_query.chat_instance= -2796372921295960540
+ref.callback_query.data= cmenu_104
+
+
+[ref]
+ref.message_id= 48
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(592): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(643): MyTgBot->handleCustomMenu('104')
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(838): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(911): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(947): MyTgBot->run()
+#9 {main}
+
+============[Date]============
+[ 2021-03-02 15:59:36  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+=========[Sent Data]==========
+[ref]
+ref.update_id= 22576873
+ref.callback_query.id= 901281985566680672
+ref.callback_query.from.id= 209846064
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Dmitry
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 53
+ref.callback_query.message.from.id= 1611843385
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= WBS
+ref.callback_query.message.from.username= chivas21_bot
+ref.callback_query.message.chat.id= 209846064
+ref.callback_query.message.chat.first_name= Dmitry
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1614693574
+ref.callback_query.message.text= Выберите количество
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= ➖
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= minus_1_67002
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.text= 1 шт.
+ref.callback_query.message.reply_markup.inline_keyboard.0.1.callback_data= number_1_67002
+ref.callback_query.message.reply_markup.inline_keyboard.0.2.text= ➕
+ref.callback_query.message.reply_markup.inline_keyboard.0.2.callback_data= plus_1_67002
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🆗
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= ok_1_67002
+ref.callback_query.chat_instance= -2796372921295960540
+ref.callback_query.data= plus_1_67002
+
+
+[ref]
+ref.message_id= 53
+ref.reply_markup= {"inline_keyboard":[[{"text":"\u2796","callback_data":"minus_2_67002"},{"text":"2 \u0448\u0442.","callback_data":"number_2_67002"},{"text":"\u2795","callback_data":"plus_2_67002"}],[{"text":"\ud83c\udd97","callback_data":"ok_2_67002"}]]}
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(1674): Telegram->endpoint('editMessageRepl...', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(247): Telegram->editMessageReplyMarkup(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(838): MyTgBot->selectionQuantityOfProducts()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(911): MyTgBot->handleUserReply()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(947): MyTgBot->run()
+#7 {main}
+
+============[Date]============
+[ 2021-03-02 15:59:52  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message to delete not found
+=========[Sent Data]==========
+[ref]
+ref.update_id= 22576880
+ref.callback_query.id= 901281984237282217
+ref.callback_query.from.id= 209846064
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Dmitry
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 57
+ref.callback_query.message.from.id= 1611843385
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= WBS
+ref.callback_query.message.from.username= chivas21_bot
+ref.callback_query.message.chat.id= 209846064
+ref.callback_query.message.chat.first_name= Dmitry
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1614693590
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Spirits
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_104
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= search_btn
+ref.callback_query.chat_instance= -2796372921295960540
+ref.callback_query.data= cmenu_104
+
+
+[ref]
+ref.message_id= 57
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(592): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(643): MyTgBot->handleCustomMenu('104')
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(838): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(911): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(947): MyTgBot->run()
+#9 {main}
+
+============[Date]============
+[ 2021-03-02 22:26:31  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message to delete not found
+=========[Sent Data]==========
+[ref]
+ref.update_id= 27560206
+ref.callback_query.id= 2569300186981908685
+ref.callback_query.from.id= 598211816
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Makar
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 2
+ref.callback_query.message.from.id= 1668674184
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= 123
+ref.callback_query.message.from.username= CHN_DSTR_bot
+ref.callback_query.message.chat.id= 598211816
+ref.callback_query.message.chat.first_name= Makar
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1614716789
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Испарители
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_406
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= search_btn
+ref.callback_query.chat_instance= 7701503334636574375
+ref.callback_query.data= cmenu_406
+
+
+[ref]
+ref.message_id= 2
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(592): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(643): MyTgBot->handleCustomMenu('406')
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(838): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(911): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(947): MyTgBot->run()
+#9 {main}
+
+============[Date]============
+[ 2021-03-02 22:26:38  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message to delete not found
+=========[Sent Data]==========
+[ref]
+ref.update_id= 27560208
+ref.callback_query.id= 2569300189723951488
+ref.callback_query.from.id= 598211816
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Makar
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 4
+ref.callback_query.message.from.id= 1668674184
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= 123
+ref.callback_query.message.from.username= CHN_DSTR_bot
+ref.callback_query.message.chat.id= 598211816
+ref.callback_query.message.chat.first_name= Makar
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1614716796
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Испарители
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_406
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= search_btn
+ref.callback_query.chat_instance= 7701503334636574375
+ref.callback_query.data= cmenu_406
+
+
+[ref]
+ref.message_id= 4
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(592): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(643): MyTgBot->handleCustomMenu('406')
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(838): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(911): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(947): MyTgBot->run()
+#9 {main}
+

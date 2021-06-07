@@ -1,0 +1,441 @@
+============[Date]============
+[ 2021-02-23 13:51:39  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 641857562
+ref.callback_query.id= 6933163338813628617
+ref.callback_query.from.id= 1614252882
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Влад
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 915
+ref.callback_query.message.from.id= 1666873792
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Hookah Friend
+ref.callback_query.message.from.username= HF_Sales_bot
+ref.callback_query.message.chat.id= 1614252882
+ref.callback_query.message.chat.first_name= Влад
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613677039
+ref.callback_query.message.photo.0.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA20AA7RAAgABHgQ
+ref.callback_query.message.photo.0.file_unique_id= AQADJY8hKl0AA7RAAgAB
+ref.callback_query.message.photo.0.file_size= 27827
+ref.callback_query.message.photo.0.width= 320
+ref.callback_query.message.photo.0.height= 320
+ref.callback_query.message.photo.1.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3gAA7VAAgABHgQ
+ref.callback_query.message.photo.1.file_unique_id= AQADJY8hKl0AA7VAAgAB
+ref.callback_query.message.photo.1.file_size= 107413
+ref.callback_query.message.photo.1.width= 800
+ref.callback_query.message.photo.1.height= 800
+ref.callback_query.message.photo.2.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3kAA7ZAAgABHgQ
+ref.callback_query.message.photo.2.file_unique_id= AQADJY8hKl0AA7ZAAgAB
+ref.callback_query.message.photo.2.file_size= 220893
+ref.callback_query.message.photo.2.width= 1280
+ref.callback_query.message.photo.2.height= 1280
+ref.callback_query.message.photo.3.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3cAA7dAAgABHgQ
+ref.callback_query.message.photo.3.file_unique_id= AQADJY8hKl0AA7dAAgAB
+ref.callback_query.message.photo.3.file_size= 283053
+ref.callback_query.message.photo.3.width= 1500
+ref.callback_query.message.photo.3.height= 1500
+ref.callback_query.message.caption= Lemon Sweets
+
+Вкус сахарных ароматных мармеладных лимонных долек точно вернет вас в детство! Очень крутой вкус!
+
+Цена: 990 czk
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= ✅ Добавить в корзину
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= add_68983
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🛒 Корзина
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cart_
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= ↻ В меню
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= menu_btn
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= ↶ Назад
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= add_68983
+ref.callback_query.chat_instance= 146914856896977738
+ref.callback_query.data= add_68983
+
+
+[ref]
+ref.message_id= 915
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(218): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleDescription()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#8 {main}
+
+============[Date]============
+[ 2021-02-23 13:51:42  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 641857564
+ref.callback_query.id= 6933163337041236824
+ref.callback_query.from.id= 1614252882
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Влад
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 915
+ref.callback_query.message.from.id= 1666873792
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Hookah Friend
+ref.callback_query.message.from.username= HF_Sales_bot
+ref.callback_query.message.chat.id= 1614252882
+ref.callback_query.message.chat.first_name= Влад
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613677039
+ref.callback_query.message.photo.0.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA20AA7RAAgABHgQ
+ref.callback_query.message.photo.0.file_unique_id= AQADJY8hKl0AA7RAAgAB
+ref.callback_query.message.photo.0.file_size= 27827
+ref.callback_query.message.photo.0.width= 320
+ref.callback_query.message.photo.0.height= 320
+ref.callback_query.message.photo.1.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3gAA7VAAgABHgQ
+ref.callback_query.message.photo.1.file_unique_id= AQADJY8hKl0AA7VAAgAB
+ref.callback_query.message.photo.1.file_size= 107413
+ref.callback_query.message.photo.1.width= 800
+ref.callback_query.message.photo.1.height= 800
+ref.callback_query.message.photo.2.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3kAA7ZAAgABHgQ
+ref.callback_query.message.photo.2.file_unique_id= AQADJY8hKl0AA7ZAAgAB
+ref.callback_query.message.photo.2.file_size= 220893
+ref.callback_query.message.photo.2.width= 1280
+ref.callback_query.message.photo.2.height= 1280
+ref.callback_query.message.photo.3.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3cAA7dAAgABHgQ
+ref.callback_query.message.photo.3.file_unique_id= AQADJY8hKl0AA7dAAgAB
+ref.callback_query.message.photo.3.file_size= 283053
+ref.callback_query.message.photo.3.width= 1500
+ref.callback_query.message.photo.3.height= 1500
+ref.callback_query.message.caption= Lemon Sweets
+
+Вкус сахарных ароматных мармеладных лимонных долек точно вернет вас в детство! Очень крутой вкус!
+
+Цена: 990 czk
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= ✅ Добавить в корзину
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= add_68983
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🛒 Корзина
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cart_
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= ↻ В меню
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= menu_btn
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= ↶ Назад
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= add_68983
+ref.callback_query.chat_instance= 146914856896977738
+ref.callback_query.data= menu_btn
+
+
+[ref]
+ref.message_id= 915
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(110): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(649): MyTgBot->sendMenu()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#9 {main}
+
+============[Date]============
+[ 2021-02-23 13:51:43  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 641857565
+ref.callback_query.id= 6933163338645711885
+ref.callback_query.from.id= 1614252882
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= Влад
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 915
+ref.callback_query.message.from.id= 1666873792
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Hookah Friend
+ref.callback_query.message.from.username= HF_Sales_bot
+ref.callback_query.message.chat.id= 1614252882
+ref.callback_query.message.chat.first_name= Влад
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613677039
+ref.callback_query.message.photo.0.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA20AA7RAAgABHgQ
+ref.callback_query.message.photo.0.file_unique_id= AQADJY8hKl0AA7RAAgAB
+ref.callback_query.message.photo.0.file_size= 27827
+ref.callback_query.message.photo.0.width= 320
+ref.callback_query.message.photo.0.height= 320
+ref.callback_query.message.photo.1.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3gAA7VAAgABHgQ
+ref.callback_query.message.photo.1.file_unique_id= AQADJY8hKl0AA7VAAgAB
+ref.callback_query.message.photo.1.file_size= 107413
+ref.callback_query.message.photo.1.width= 800
+ref.callback_query.message.photo.1.height= 800
+ref.callback_query.message.photo.2.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3kAA7ZAAgABHgQ
+ref.callback_query.message.photo.2.file_unique_id= AQADJY8hKl0AA7ZAAgAB
+ref.callback_query.message.photo.2.file_size= 220893
+ref.callback_query.message.photo.2.width= 1280
+ref.callback_query.message.photo.2.height= 1280
+ref.callback_query.message.photo.3.file_id= AgACAgQAAxkDAAIDk2Auwe_gEGlBSMHLvU56yG3QIHUDAALMqzEbHHb8UGlShQJPxmw3JY8hKl0AAwEAAwIAA3cAA7dAAgABHgQ
+ref.callback_query.message.photo.3.file_unique_id= AQADJY8hKl0AA7dAAgAB
+ref.callback_query.message.photo.3.file_size= 283053
+ref.callback_query.message.photo.3.width= 1500
+ref.callback_query.message.photo.3.height= 1500
+ref.callback_query.message.caption= Lemon Sweets
+
+Вкус сахарных ароматных мармеладных лимонных долек точно вернет вас в детство! Очень крутой вкус!
+
+Цена: 990 czk
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= ✅ Добавить в корзину
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= add_68983
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🛒 Корзина
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cart_
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= ↻ В меню
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= menu_btn
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= ↶ Назад
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= add_68983
+ref.callback_query.chat_instance= 146914856896977738
+ref.callback_query.data= menu_btn
+
+
+[ref]
+ref.message_id= 915
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(110): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(649): MyTgBot->sendMenu()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#9 {main}
+
+============[Date]============
+[ 2021-02-23 16:21:48  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 49009181
+ref.callback_query.id= 6784495577712051695
+ref.callback_query.from.id= 1579638472
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= GJ shop
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 452
+ref.callback_query.message.from.id= 1435690506
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= GJ shop
+ref.callback_query.message.from.username= GJ_shop_bot
+ref.callback_query.message.chat.id= 1579638472
+ref.callback_query.message.chat.first_name= GJ shop
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613186631
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Heets
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_98
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Glo Neo Demi (толстые)
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cmenu_99
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Glo Neo Nano (тонкие)
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= cmenu_100
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Просьба ознакомиться!
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= cmenu_101
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= search_btn
+ref.callback_query.chat_instance= -4223399099136706888
+ref.callback_query.data= cmenu_98
+
+
+[ref]
+ref.message_id= 452
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(642): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleMenu()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#8 {main}
+
+============[Date]============
+[ 2021-02-23 16:21:48  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 49009181
+ref.callback_query.id= 6784495577712051695
+ref.callback_query.from.id= 1579638472
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= GJ shop
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 452
+ref.callback_query.message.from.id= 1435690506
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= GJ shop
+ref.callback_query.message.from.username= GJ_shop_bot
+ref.callback_query.message.chat.id= 1579638472
+ref.callback_query.message.chat.first_name= GJ shop
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613186631
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Heets
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_98
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Glo Neo Demi (толстые)
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cmenu_99
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Glo Neo Nano (тонкие)
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= cmenu_100
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Просьба ознакомиться!
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= cmenu_101
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= search_btn
+ref.callback_query.chat_instance= -4223399099136706888
+ref.callback_query.data= cmenu_98
+
+
+[ref]
+ref.message_id= 452
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(593): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(644): MyTgBot->handleCustomMenu('98')
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#9 {main}
+
+============[Date]============
+[ 2021-02-23 16:21:57  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 49009182
+ref.callback_query.id= 6784495580351146617
+ref.callback_query.from.id= 1579638472
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= GJ shop
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 452
+ref.callback_query.message.from.id= 1435690506
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= GJ shop
+ref.callback_query.message.from.username= GJ_shop_bot
+ref.callback_query.message.chat.id= 1579638472
+ref.callback_query.message.chat.first_name= GJ shop
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613186631
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Heets
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_98
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Glo Neo Demi (толстые)
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cmenu_99
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Glo Neo Nano (тонкие)
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= cmenu_100
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Просьба ознакомиться!
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= cmenu_101
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= search_btn
+ref.callback_query.chat_instance= -4223399099136706888
+ref.callback_query.data= cmenu_101
+
+
+[ref]
+ref.message_id= 452
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(642): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleMenu()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#8 {main}
+
+============[Date]============
+[ 2021-02-23 16:21:57  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 49009182
+ref.callback_query.id= 6784495580351146617
+ref.callback_query.from.id= 1579638472
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= GJ shop
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 452
+ref.callback_query.message.from.id= 1435690506
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= GJ shop
+ref.callback_query.message.from.username= GJ_shop_bot
+ref.callback_query.message.chat.id= 1579638472
+ref.callback_query.message.chat.first_name= GJ shop
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613186631
+ref.callback_query.message.text= Выберите меню нажав на кнопку ниже
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= Heets
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= cmenu_98
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= Glo Neo Demi (толстые)
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cmenu_99
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= Glo Neo Nano (тонкие)
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= cmenu_100
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= Просьба ознакомиться!
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= cmenu_101
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.text= 🔍 Поиск
+ref.callback_query.message.reply_markup.inline_keyboard.4.0.callback_data= search_btn
+ref.callback_query.chat_instance= -4223399099136706888
+ref.callback_query.data= cmenu_101
+
+
+[ref]
+ref.message_id= 452
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(593): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(644): MyTgBot->handleCustomMenu('101')
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleMenu()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#9 {main}
+

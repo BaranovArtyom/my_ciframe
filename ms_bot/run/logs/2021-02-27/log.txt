@@ -1,0 +1,40 @@
+2021-02-27T17:55:44+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-02-27T17:55:44+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"d24b93c7-0c8c-11e7-7a69-971100002549"}
+2021-02-27T17:55:44+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = 4438dfe2e8d8315abe681e6940ff48689f7fed76)
+2021-02-27T17:55:44+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"kh","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"4438dfe2e8d8315abe681e6940ff48689f7fed76"}],"cause":"Install"}
+2021-02-27T17:55:44+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+4438dfe2e8d8315abe681e6940ff48689f7fed76
+2021-02-27T19:14:53+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-02-27T19:14:53+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"fe3a9294-791e-11eb-0a80-09780000b2d4"}
+2021-02-27T19:14:53+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = 177b4f009e082f270c7b6346247dc5234971bdf9)
+2021-02-27T19:14:53+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"officeshutup","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"177b4f009e082f270c7b6346247dc5234971bdf9"}],"cause":"Install"}
+2021-02-27T19:14:53+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+177b4f009e082f270c7b6346247dc5234971bdf9
+2021-02-27T19:20:14+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-02-27T19:20:14+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"22b59b68-9ab2-11e9-9109-f8fc000029c6"}
+2021-02-27T19:20:14+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = eb344c9bc30b75ccdcd82f1b0d03f6f2e03930ec)
+2021-02-27T19:20:14+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"salekazani","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"eb344c9bc30b75ccdcd82f1b0d03f6f2e03930ec"}],"cause":"Install"}
+2021-02-27T19:20:14+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+eb344c9bc30b75ccdcd82f1b0d03f6f2e03930ec
+2021-02-27T19:20:25+02:00 [MOYSKLAD => APP] Received: method=DELETE, path=
+2021-02-27T19:20:25+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"22b59b68-9ab2-11e9-9109-f8fc000029c6"}
+2021-02-27T19:20:25+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = )
+2021-02-27T19:20:25+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"salekazani","cause":"Uninstall"}
+2021-02-27T19:20:25+02:00 [App-delete] {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"22b59b68-9ab2-11e9-9109-f8fc000029c6"}
+2021-02-27T19:20:25+02:00 [Delete] "22b59b68-9ab2-11e9-9109-f8fc000029c6" /home/www/i.spey.ru/web/saas/shopbot_prod/run/data/deleted/22b59b68-9ab2-11e9-9109-f8fc000029c6.json
+2021-02-27T20:21:05+02:00 [MOYSKLAD => APP] Received: method=GET, path=
+2021-02-27T20:21:05+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"1bd0d5cf-56ec-11eb-0a80-06e2000114ad"}
+2021-02-27T20:21:05+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = , access_token = )
+2021-02-27T20:21:05+02:00 [MOYSKLAD => APP] Request body:
+
+2021-02-27T20:54:55+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-02-27T20:54:55+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"4512c65b-05b4-11e7-7a69-971100006f8c"}
+2021-02-27T20:54:55+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = d3aa3f7fa042f7a119e22183fedf238f75a22e16)
+2021-02-27T20:54:55+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"mnogopara73","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"d3aa3f7fa042f7a119e22183fedf238f75a22e16"}],"cause":"Install"}
+2021-02-27T20:54:55+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+d3aa3f7fa042f7a119e22183fedf238f75a22e16

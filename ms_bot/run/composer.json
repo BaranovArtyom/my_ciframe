@@ -1,0 +1,34 @@
+{
+  "description": "Telegram bot with Moysklad integration",
+  "authors": [
+    {
+      "name": "rev1sion",
+      "email": "hon2use@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "ext-json": "*",
+    "eleirbag89/telegrambotphp": "^1.3",
+    "catfan/medoo": "^1.7",
+    "monolog/monolog": "^2.1",
+    "ext-curl": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "MySklad\\": "MySklad\\",
+      "DbCon\\": "DbCon\\"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+    }
+  },
+  "support": {
+    "issues": "https://github.com/XXxX/telegram-api/issues",
+    "source": "https://github.com/XXXxx/telegram-api"
+  },
+  "license": "MIT"
+}

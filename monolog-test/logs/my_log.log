@@ -1,0 +1,39 @@
+[2021-01-22T10:53:48.560061+02:00] myname.WARNING: Foo [] []
+[2021-01-22T10:53:48.560956+02:00] myname.ERROR: Bar [] []
+[2021-01-22T10:57:43.833692+02:00] myname.WARNING: Foo {"s":2} []
+[2021-01-22T10:57:43.834169+02:00] myname.ERROR: Bar [] []
+[2021-01-22T10:59:52.863414+02:00] myname.ERROR: Переменная s {"s":2} []
+[2021-01-22T10:59:52.863965+02:00] myname.ERROR: Bar [] []
+[2021-01-22T11:01:48.305518+02:00] myname.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:01:48.306199+02:00] myname.ERROR: Bar [] []
+[2021-01-22T11:08:05.920728+02:00] log.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:08:50.739398+02:00] log.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:10:44.758872+02:00] log.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:11:08.431489+02:00] log.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:11:33.076949+02:00] log.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:20:23.195092+02:00] log.WARNING: Переменная s = 3 {"s":3} []
+[2021-01-22T11:20:34.274288+02:00] log.INFO: Переменная s = 3 {"s":3} []
+[2021-01-22T11:21:44.824038+02:00] log.ERROR: Переменная s = 3 {"s":3} []
+[2021-01-22T11:21:52.110861+02:00] log.INFO: не равна трем [] []
+[2021-01-22T11:22:27.853782+02:00] log.INFO: не равна трем {"s":4} []
+[2021-01-22T11:22:46.916522+02:00] log.INFO: не равна трем {"s":4} []
+[2021-01-22T11:22:55.857339+02:00] log.INFO: не равна трем {"s":4} []
+[2021-01-22T11:53:10.765632+02:00] log.WARNING: 3 [] []
+[2021-01-22T11:54:09.873487+02:00] log.INFO: не равна трем {"s":4} []
+[2021-01-22T11:54:25.906120+02:00] log.WARNING: 3 [] []
+[2021-01-22T12:15:53.599398+02:00] log.INFO: User registered {"username":"jmendez"} {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:15:53.600193+02:00] log.WARNING: 3 [] {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:19:01.004909+02:00] log.INFO: User registered {"username":"jmendez"} {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:19:01.005517+02:00] log.WARNING: 3 [] {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:19:51.311691+02:00] log.INFO: User registered {"username":"jmendez"} {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:19:51.312993+02:00] log.WARNING: 3 [] {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:20:39.784249+02:00] log.INFO: User registered {"username":"jmendez"} {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:20:39.784689+02:00] log.INFO: не равна трем {"s":4} {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:21:23.910325+02:00] log.INFO: User registered {"username":"jmendez"} {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:21:23.910854+02:00] log.WARNING: 3 [] {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:32:20.095435+02:00] log.WARNING: 3 [] {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:32:20.096280+02:00] log.ERROR: Bar ["test"] {"url":"/monolog-test/","ip":"127.0.0.1","http_method":"GET","server":"example","referrer":null}
+[2021-01-22T12:36:42.071588+02:00] log.WARNING: 3 [] []
+[2021-01-22T12:36:42.072134+02:00] log.ERROR: Bar ["test"] []
+[2021-01-22T12:38:00.582014+02:00] log.WARNING: 3 [] {"dummy":"Hello world!"}
+[2021-01-22T12:38:00.582747+02:00] log.ERROR: Bar ["test"] {"dummy":"Hello world!"}

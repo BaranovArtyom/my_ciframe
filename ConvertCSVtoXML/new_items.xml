@@ -1,0 +1,2703 @@
+<?xml version="1.0"?>
+<root_items>
+   <goods>
+    <name>3D-&#x440;&#x443;&#x447;&#x43A;&#x430; RP800A</name>
+    <article>3Dpen_RP800A</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_white</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_black</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_light-gray</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_yellow</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_dark-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_green</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_coral</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_cream</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_chocolate</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_brown</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x44F;&#x449;&#x438;&#x439;&#x441;&#x44F; &#x432; &#x442;&#x435;&#x43C;&#x43D;&#x43E;&#x442;&#x435; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x431;&#x438;&#x440;&#x44E;&#x437;&#x43E;&#x432;&#x44B;&#x439;, 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_lumi</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_transparent</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_red</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_orange</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_rose</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_emerald</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_0.5kg_1.75_skiey</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_green</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_light-gray</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_yellow</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_orange</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_red</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_serebr</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_dark-gray</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_black</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_blue</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_cream</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_coral</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_chocolate</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_emerald</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_brown</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_white</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_skiey</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_rose</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_multi</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_1.75_natural</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_dark-gray</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_black</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_serebr</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_cream</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_chocolate</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_rose</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_skiey</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_coral</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_brown</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_white</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_emerald</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_red</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_green</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_light-gray</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_yellow</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_orange</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_abs_1kg_2.85_multi</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_skiey</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_rose</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_chocolate</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_coral</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_brown</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_emerald</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_green</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_light-blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_lime</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_purple</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_red</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_yellow</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_cream</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_orange</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_dark-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_white</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_black</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_natural</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_abs_2.5kg_1.75_light-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>PC/ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article/>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>ASA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_asa_1kg_1.75_natural</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>BFCarbon &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_carbon_1kg_1.75_natural</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; BFGummy &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bfgummi_black_0.5kg_1.75_natural</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_black_0.5kg_1.75_natural</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_1.75_natural</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_red_0.5kg_1.75_natural</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_blue_0.5kg_1.75_natural</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_darkgrey_0.5kg_1.75</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_1.75_mult</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_yellow_0.5kg_1.75</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bflex_green_0.5kg_1.75</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_white</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_red</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_yellow</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_green</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_dark_gray</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_black</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_bflex_0.5kg_2.85_blue</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>BF Mistique &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; &#x434;&#x43B;&#x44F; &#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x438; &#x440;&#x443;&#x447;&#x43D;&#x43E;&#x439; &#x43B;&#x435;&#x43F;&#x43A;&#x438;. &#x413;&#x440;&#x430;&#x43D;&#x443;&#x43B;&#x44B;. &#x412;&#x435;&#x441; 100 &#x433;&#x440;.</name>
+    <article>st_bfmistique</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_05kg_1.75_white</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_05kg_1.75_green</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_05kg_1.75_red</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_05kg_1.75_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_05kg_1.75_black</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_1.75_white</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_1.75_black</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_1.75_red</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_1.75_multi</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_1.75_green</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_1.75_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; HIPS Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_h_1kg_2.85_red</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>BFNylon &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_nylon_1kg_1.75_natural</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>PC/ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pc/abs_1kg_1.75_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x433;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439;, 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_fl_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_red_0.5kg_1.75_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_darkgrey_0.5kg_1.75</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_light-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_blue_0.5kg_1.75_natural</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_white_1kg_1.75_natural</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_yellow_0.5kg_1.75</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_green_0.5kg_1.75</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_orange_0.5kg_1.75_natural</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x41B;&#x430;&#x439;&#x43C; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_lime_0.5kg_1.75_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x440;&#x435;&#x43D;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_purple_05kg_1.75</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_cream_0.5kg_1.75</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_serebr</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_emerald</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;  0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_chocolate_0.5kg_1.75</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_coral</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;  0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_brown_0.5kg_1.75</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_rose</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_smetal</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_skiey</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_salatovyy</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x436;&#x435;&#x43B;&#x442;&#x44B;&#x439;, 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_0.5kg_1.75_fl_yellow</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_black_0.5kg_1.75_natural</article>
+    <count>11</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_natural</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_multy_1kg_1.75</article>
+    <count>38</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_red_1kg_1.75_natural</article>
+    <count>28</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_green_1kg_1.75</article>
+    <count>13</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_orange_1kg_1.75</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x440;&#x435;&#x43D;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_purple_1kg_1.75</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_darkgrey_1kg_1.75</article>
+    <count>27</count>
+  </goods>
+  <goods>
+    <name>&#x41B;&#x430;&#x439;&#x43C; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_lime_1kg_1.75_natural</article>
+    <count>11</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_cream_1kg_1.75</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_serebr</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_light-gray</article>
+    <count>17</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x433;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439;, 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_fl_blue</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_gold_metal</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_emerald</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_light-blue</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_brown_1kg_1.75</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_rose</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_chocolate_1kg_1.75</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_skiey</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_coral</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_salatovyy</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x436;&#x435;&#x43B;&#x442;&#x44B;&#x439;, 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_1kg_1.75_fl_yellow</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_natural_1kg_1.75</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_black_1kg_1.75_natural</article>
+    <count>120</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_blue_1kg_1.75_natural</article>
+    <count>22</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_yellow_1kg_1.75</article>
+    <count>13</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_white_1kg_1.75</article>
+    <count>96</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_green_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_yellow_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_white_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_darkgrey_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_black_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_red_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_natural_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_blue_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_petg_multy_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_light</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_white</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_light</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_yellow</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_green</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_emerald</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_coral</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_brown</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_red</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_cream</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_natural</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_black</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_skiey</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_rose</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_chocolate</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_orange</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_lime</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_blue</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_dark-gray</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x440;&#x435;&#x43D;&#x435;&#x432;&#x44B;&#x439; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_purple</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_petg_2.5kg_1.75_serebr</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_white</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_blue</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_green</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_natural</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_serebr</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_yellow</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_smetal</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_light-blue</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_light-gray</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_coral</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_darkgrey</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_cream</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_emerald</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_pink</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_skiey</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_chocolate</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_brown</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x436;&#x435;&#x43B;&#x442;&#x44B;&#x439;, 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_05kg_1.75_fl_yellow</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x433;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439;, 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_05kg_1.75_fl_blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_black</article>
+    <count>7</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x44F;&#x449;&#x438;&#x439;&#x441;&#x44F; &#x432; &#x442;&#x435;&#x43C;&#x43D;&#x43E;&#x442;&#x435; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x431;&#x438;&#x440;&#x44E;&#x437;&#x43E;&#x432;&#x44B;&#x439;, 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_lumi</article>
+    <count>7</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x44F;&#x449;&#x438;&#x439;&#x441;&#x44F; &#x432; &#x442;&#x435;&#x43C;&#x43D;&#x43E;&#x442;&#x435; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x43B;&#x438;&#x43C;&#x43E;&#x43D;&#x43D;&#x44B;&#x439;, 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_lumi_limon</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_red</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_0.5kg_1.75_orange</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.75 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_075kg_1.75_multi</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_smetal</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_cream</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_multi</article>
+    <count>28</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_orange</article>
+    <count>17</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_dark-gray</article>
+    <count>19</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_light-gray</article>
+    <count>22</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_natural</article>
+    <count>14</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_skiey</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_coral</article>
+    <count>7</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_light-blue</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_emerald</article>
+    <count>9</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_purple</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_chocolate</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_lime</article>
+    <count>9</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_rose</article>
+    <count>7</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x433;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439;, 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_fl_blue</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43B;&#x443;&#x43E;&#x440;&#x435;&#x441;&#x446;&#x435;&#x43D;&#x442;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432;, &#x446;&#x432;&#x435;&#x442; &#x436;&#x435;&#x43B;&#x442;&#x44B;&#x439;, 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_fl_yellow</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_brown</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_white</article>
+    <count>70</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_black</article>
+    <count>76</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_red</article>
+    <count>23</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_blue</article>
+    <count>22</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_green</article>
+    <count>27</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_yellow</article>
+    <count>18</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_1.75_serebr</article>
+    <count>18</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_light-gray</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_dark-gray</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_multi</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_smetal</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_yellow</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_green</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_sermetal</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_light-blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_skiey</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_brown</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_cream</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_rose</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_lime</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_red</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_natural</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_coral</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_orange</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_emerald</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_chocolate</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_purple</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_white</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2.85 &#x43C;&#x43C;)</name>
+    <article>st_pla_1kg_2.85_black</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_lime</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_red</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_purple</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_brown</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_coral</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_emerald</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_green</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_light-blue</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_natural</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_orange</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_rose</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_skiey</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_cream</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_yellow</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_serebr</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_chocolate</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_dark-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_black</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_light-gray</article>
+    <count>1</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; PLA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 2,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pla_2.5kg_1.75_white</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x43E;&#x434;&#x43E;&#x440;&#x430;&#x441;&#x442;&#x432;&#x43E;&#x440;&#x438;&#x43C;&#x44B;&#x439; PVA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_pva_1kg_1.75_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x43E;&#x434;&#x43E;&#x440;&#x430;&#x441;&#x442;&#x432;&#x43E;&#x440;&#x438;&#x43C;&#x44B;&#x439; PVA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_pva_05kg_2.85_natural</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>BF TPU soft &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_0.5kg_1.75</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_white_0.5kg_1.75</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_red_0.5kg_1.75</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_black_0.5kg_1.75</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_blue_0.5kg_1.75</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; (&#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439;) TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_natural_0.5kg_1.75</article>
+    <count>6</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_tpu_perehod_0.5kg_1.75</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>BF TPU soft &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_tpu_1kg_2.85</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_emerald</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_natural</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_black</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_orange</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0.5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_smetal</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_white</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>Watson T-1000 Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_light-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_rose</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_yellow</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_0.5kg_1.75_red</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_multi</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>Watson T-1000 Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_light-gray</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_red</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_white</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_emerald</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_orange</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_rose</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_smetal</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_yellow</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_natural</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_1.75_black</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_white</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x43E;&#x43B;&#x43E;&#x442;&#x438;&#x441;&#x442;&#x44B;&#x439; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_smetal</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_natural</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_purple</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x43E;&#x437;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_rose</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_multi</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_light-blue</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>Watson T-1000 Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_light-gray</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x416;&#x435;&#x43B;&#x442;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_yellow</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_orange</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_red</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_lime</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_emerald</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; Watson Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1 &#x43A;&#x433; (2,85 &#x43C;&#x43C;)</name>
+    <article>st_sbs_1kg_2.85_black</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x440;&#x430;&#x43D;&#x443;&#x43B;&#x44B; PLA 1&#x43A;&#x433;</name>
+    <article>st_granules_pla</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x440;&#x430;&#x43D;&#x443;&#x43B;&#x44B; ABS 1&#x43A;&#x433;</name>
+    <article>st_granules_abs</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x440;&#x430;&#x43D;&#x443;&#x43B;&#x44B; ASA 1&#x43A;&#x433;</name>
+    <article>st_granule_asa</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x440;&#x430;&#x43D;&#x443;&#x43B;&#x44B; PETG 1&#x43A;&#x433;</name>
+    <article>st_granules_petg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x440;&#x430;&#x439;&#x432;&#x435;&#x440; &#x448;&#x430;&#x433;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x434;&#x432;&#x438;&#x433;&#x430;&#x442;&#x435;&#x43B;&#x44F; &#x43D;&#x430; &#x431;&#x430;&#x437;&#x435; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x441;&#x445;&#x435;&#x43C;&#x44B; TMC2208 V3.0 STEP/DIR</name>
+    <article>st_tmc2203</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x43B;&#x43E;&#x43A; &#x43F;&#x438;&#x442;&#x430;&#x43D;&#x438;&#x44F; 360 B&#x422; (12 V, 30A)</name>
+    <article>st_power_supply</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x43D;&#x442;&#x440;&#x43E;&#x43B;&#x43B;&#x435;&#x440; Arduino Mega 2560</name>
+    <article>st_Arduino_Mega_2560</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x438;&#x43D;&#x442; &#x442;&#x440;&#x430;&#x43F;&#x435;&#x446;&#x435;&#x438;&#x434;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x441; &#x433;&#x430;&#x439;&#x43A;&#x43E;&#x439; 350&#x43C;&#x43C;</name>
+    <article>st_screw</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x443;&#x431;&#x447;&#x430;&#x442;&#x44B;&#x439; &#x440;&#x435;&#x43C;&#x435;&#x43D;&#x44C; GT2 &#x434;&#x43B;&#x44F; 3D &#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x430;</name>
+    <article>st_beltGT2</article>
+    <count>100</count>
+  </goods>
+  <goods>
+    <name>&#x41B;&#x438;&#x43D;&#x435;&#x439;&#x43D;&#x44B;&#x439; &#x43F;&#x43E;&#x434;&#x448;&#x438;&#x43F;&#x43D;&#x438;&#x43A; LMK12LUU</name>
+    <article>st_linear_bearing</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>LCD &#x434;&#x438;&#x441;&#x43F;&#x43B;&#x435;&#x439; 12864B V2.0</name>
+    <article>st_LCD</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x438;&#x441;&#x43F;&#x43B;&#x435;&#x439; Smart</name>
+    <article>st_display_smart</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x430;&#x436;&#x438;&#x43C; &#x441;&#x442;&#x435;&#x43A;&#x43B;&#x430;</name>
+    <article>st_glass_clamp</article>
+    <count>50</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x430;&#x43B; &#x43B;&#x438;&#x43D;&#x435;&#x439;&#x43D;&#x43E;&#x433;&#x43E; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x449;&#x435;&#x43D;&#x438;&#x44F; &#xF8;8&#x43C;&#x43C; L500 &#x43C;&#x43C;</name>
+    <article/>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41C;&#x438;&#x43A;&#x440;&#x43E;&#x43A;&#x43E;&#x43D;&#x442;&#x440;&#x43E;&#x43B;&#x43B;&#x435;&#x440; ATmega1284P-AU</name>
+    <article>st_atmega1284</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x430;&#x442;&#x447;&#x438;&#x43A; &#x430;&#x432;&#x442;&#x43E;&#x443;&#x440;&#x43E;&#x432;&#x43D;&#x44F; &#x438;&#x43D;&#x434;&#x443;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x44B;&#x439; THGS LJ18A3-8-Z/BX 8&#x43C;&#x43C;</name>
+    <article>st_thgs</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x432;&#x438;&#x433;&#x430;&#x442;&#x435;&#x43B;&#x44C; &#x448;&#x430;&#x433;&#x43E;&#x432;&#x44B;&#x439; NEMA 17 JK42HS40-1704</name>
+    <article>st_nema17new</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x440;&#x430;&#x439;&#x432;&#x435;&#x440; TMC2208 V1.2 STEP/DIR &#x448;&#x430;&#x433;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x434;&#x432;&#x438;&#x433;&#x430;&#x442;&#x435;&#x43B;&#x44F;</name>
+    <article>st_tmc2208</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x440;&#x430;&#x439;&#x432;&#x435;&#x440; &#x448;&#x430;&#x433;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x434;&#x432;&#x438;&#x433;&#x430;&#x442;&#x435;&#x43B;&#x44F; &#x43D;&#x430; &#x431;&#x430;&#x437;&#x435; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x441;&#x445;&#x435;&#x43C;&#x44B; DRV8825</name>
+    <article>st_drv8825</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>MKS GEN v1.4</name>
+    <article>st_MKS_GENv1.4</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>Hot End &#x432; &#x441;&#x431;&#x43E;&#x440;&#x435; v6</name>
+    <article>st_HotEnd_dir</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x430;&#x43B; &#x43B;&#x438;&#x43D;&#x435;&#x439;&#x43D;&#x43E;&#x433;&#x43E; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x449;&#x435;&#x43D;&#x438;&#x44F; ?12&#x43C;&#x43C;</name>
+    <article>st_shaft_12mm</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x44B;&#x43A;&#x43B;&#x44E;&#x447;&#x430;&#x442;&#x435;&#x43B;&#x44C; &#x43A;&#x43E;&#x43D;&#x446;&#x435;&#x432;&#x43E;&#x439; &#x438;&#x43D;&#x434;&#x443;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x44B;&#x439; SN04-N</name>
+    <article>st_sn04-n</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;6 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 10&#x448;&#x442;</name>
+    <article>st_tgaikaM6303010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x44B;&#x43A;&#x43B;&#x44E;&#x447;&#x430;&#x442;&#x435;&#x43B;&#x44C; &#x43A;&#x43E;&#x43D;&#x446;&#x435;&#x432;&#x43E;&#x439; &#x43E;&#x43F;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x439; &#x442;&#x438;&#x43F;2</name>
+    <article>st_optkon2</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x410;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 30*60&#x43C;&#x43C;*1,5&#x43C; &#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x435;&#x437; &#x43F;&#x43E;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F;</name>
+    <article>st_alumprofil30x60</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;5 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 20&#x448;&#x442;</name>
+    <article>st_tgaikaM5303020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;5 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 50&#x448;&#x442;</name>
+    <article>st_tgaikaM5303050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x410;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 20x20&#x43C;&#x43C; 1,5&#x43C; &#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x435;&#x437; &#x43F;&#x43E;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F;</name>
+    <article>st_alumprofil20x20</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x410;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 20*20&#x43C;&#x43C;*1,5&#x43C; V-Slot &#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x435;&#x437; &#x43F;&#x43E;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F;</name>
+    <article>st_alumprofil20x20vslot</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x410;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 20*40&#x43C;&#x43C;*1,5&#x43C; V-Slot &#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x435;&#x437; &#x43F;&#x43E;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F;</name>
+    <article>st_alumprofil20x40vslot</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x410;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 30x30&#x43C;&#x43C; 1,5&#x43C; &#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x435;&#x437; &#x43F;&#x43E;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F;</name>
+    <article>st_alumprofil30x30</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x410;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 20x40&#x43C;&#x43C; 1,5&#x43C; &#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x435;&#x437; &#x43F;&#x43E;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F;</name>
+    <article>st_alumprofil20x40</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;6 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 50&#x448;&#x442;</name>
+    <article>st_tgaikaM6303050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;4 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 10&#x448;&#x442;</name>
+    <article>st_tgaikaM4303010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;4 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 20&#x448;&#x442;</name>
+    <article>st_tgaikaM4303020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;4 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 50&#x448;&#x442;</name>
+    <article>st_tgaikaM4303050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;5 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 10&#x448;&#x442;</name>
+    <article>st_tgaikaM5303010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x413;&#x430;&#x439;&#x43A;&#x430; &#x422;-&#x43E;&#x431;&#x440;&#x430;&#x437;&#x43D;&#x430;&#x44F; &#x41C;6 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 20&#x448;&#x442;</name>
+    <article>st_tgaikaM6303020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x430;&#x43B; &#x43B;&#x438;&#x43D;&#x435;&#x439;&#x43D;&#x43E;&#x433;&#x43E; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x449;&#x435;&#x43D;&#x438;&#x44F; &#xF8;6&#x43C;&#x43C; L500 &#x43C;&#x43C;</name>
+    <article/>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x44B;&#x441;&#x43E;&#x43A;&#x43E;&#x43A;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x43B;&#x430;&#x442;&#x443;&#x43D;&#x43D;&#x43E;&#x435; &#x441;&#x43E;&#x43F;&#x43B;&#x43E; V6 &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x430;</name>
+    <article>V6_nozzle_04</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x435;&#x43D;&#x442;&#x438;&#x43B;&#x44F;&#x442;&#x43E;&#x440; 40&#x445;40&#x43C;&#x43C;</name>
+    <article>st_fan_40x40</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x430;&#x440;&#x442;&#x440;&#x438;&#x434;&#x436; &#x43D;&#x430;&#x433;&#x440;&#x435;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x439;</name>
+    <article>st_cartridge</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x438;&#x43D;&#x442; &#x442;&#x440;&#x430;&#x43F;&#x435;&#x446;&#x435;&#x438;&#x434;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x441; &#x433;&#x430;&#x439;&#x43A;&#x43E;&#x439; 300&#x43C;&#x43C;</name>
+    <article>st_screw_300</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x432;&#x438;&#x433;&#x430;&#x442;&#x435;&#x43B;&#x44C; &#x448;&#x430;&#x433;&#x43E;&#x432;&#x44B;&#x439; NEMA 17</name>
+    <article>st_motor_NEMA17</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>Hot End bowden &#x432; &#x441;&#x431;&#x43E;&#x440;&#x435; v6</name>
+    <article>st_HotEnd</article>
+    <count>8</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x430;&#x440;&#x442;&#x440;&#x438;&#x434;&#x436; &#x43D;&#x430;&#x433;&#x440;&#x435;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; 24&#x412;</name>
+    <article>st_cartridge_24v</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x435;&#x43D;&#x442;&#x438;&#x43B;&#x44F;&#x442;&#x43E;&#x440; 30&#x445;30&#x43C;&#x43C;</name>
+    <article>st_fan_30x30</article>
+    <count>25</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43E;&#x43D;&#x446;&#x435;&#x432;&#x438;&#x43A; SS-5GL</name>
+    <article>st_terminal_SS-5GL</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x440;&#x430;&#x439;&#x432;&#x435;&#x440; &#x410;4988</name>
+    <article>st_driverA4988</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x412;&#x435;&#x43D;&#x442;&#x438;&#x43B;&#x44F;&#x442;&#x43E;&#x440; 50&#x445;50&#x43C;&#x43C;</name>
+    <article>st_fan_50x50</article>
+    <count>25</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43E;&#x434;&#x448;&#x438;&#x43F;&#x43D;&#x438;&#x43A; F623ZZ</name>
+    <article>st_bearing_623ZZ</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;6 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 50&#x448;&#x442;</name>
+    <article>st_suharpazM6303050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43E;&#x434;&#x448;&#x438;&#x43F;&#x43D;&#x438;&#x43A; 623ZZ</name>
+    <article>st_bearing_688ZZ</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x440;&#x43C;&#x43E;&#x431;&#x430;&#x440;&#x44C;&#x435;&#x440; &#x41C;6*40&#x43C;&#x43C; &#x442;&#x435;&#x444;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x430;&#x44F; &#x432;&#x441;&#x442;&#x430;&#x432;&#x43A;&#x430;</name>
+    <article>st_termobarer640</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43B;&#x430;&#x442;&#x430; &#x440;&#x430;&#x441;&#x448;&#x438;&#x440;&#x435;&#x43D;&#x438;&#x44F; RAMPS 1.5</name>
+    <article>st_ramps_15</article>
+    <count>3</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43E;&#x434;&#x448;&#x438;&#x43F;&#x43D;&#x438;&#x43A; &#x444;&#x43B;&#x430;&#x43D;&#x446;&#x435;&#x432;&#x44B;&#x439; F688ZZ</name>
+    <article>st_bearing_F688ZZ</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x433;&#x440;&#x435;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x431;&#x43B;&#x43E;&#x43A; E3D V6 &#x430;&#x43B;&#x44E;&#x43C;</name>
+    <article>st_block_e3dv6</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43B;&#x430;&#x442;&#x430; &#x43C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x43D;&#x441;&#x43A;&#x430;&#x44F; Anet A8</name>
+    <article>st_aneta8plata</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x442;&#x43E;&#x43B; &#x43D;&#x430;&#x433;&#x440;&#x435;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x430;&#x43B;&#x44E;&#x43C;&#x438;&#x43D;&#x438;&#x435;&#x432;&#x44B;&#x439; MK2a 400&#x445;400 mm 24V</name>
+    <article>st_stol40x40</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x435;&#x43B;&#x44C;&#x441; MGN9 250mm</name>
+    <article>st_railMGN9_250mm</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x435;&#x43B;&#x44C;&#x441; MGN9 350mm</name>
+    <article>st_railMGN9_350mm</article>
+    <count>10</count>
+  </goods>
+  <goods>
+    <name>&#x420;&#x443;&#x43A;&#x430;&#x432; &#x433;&#x438;&#x431;&#x43A;&#x438;&#x439;</name>
+    <article>st_sleeve</article>
+    <count>50</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; E3D 0.4&#x43C;&#x43C;</name>
+    <article>st_nozzle_E3D_0.4mm</article>
+    <count>200</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;8 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 20&#x448;&#x442;</name>
+    <article>st_suharpazM8303020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;6 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 20&#x448;&#x442;</name>
+    <article>st_suharpazM6303020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;3 &#x43F;&#x430;&#x437; 6 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 2020 10&#x448;&#x442;</name>
+    <article>st_suharpazM3202010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;3 &#x43F;&#x430;&#x437; 6 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 2020 20&#x448;&#x442;</name>
+    <article>st_suharpazM3202020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;3 &#x43F;&#x430;&#x437; 6 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 2020 50&#x448;&#x442;</name>
+    <article>st_suharpazM3202050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;4 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 10&#x448;&#x442;</name>
+    <article>st_suharpazM4303010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;4 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 20&#x448;&#x442;</name>
+    <article>st_suharpazM4303020sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;4 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 50&#x448;&#x442;</name>
+    <article>st_suharpazM4303050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;6 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 10&#x448;&#x442;</name>
+    <article>st_suharpazM6303010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;8 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 10&#x448;&#x442;</name>
+    <article>st_suharpazM8303010sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x445;&#x430;&#x440;&#x44C; &#x43F;&#x430;&#x437;&#x43E;&#x432;&#x44B;&#x439; &#x41C;8 &#x43F;&#x430;&#x437; 8 &#x43F;&#x440;&#x43E;&#x444;&#x438;&#x43B;&#x44C; 3030 50&#x448;&#x442;</name>
+    <article>st_suharpazM8303050sht</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x445;&#x43E;&#x43B; &#x441;&#x438;&#x43B;&#x438;&#x43A;&#x43E;&#x43D;&#x43E;&#x432;&#x44B;&#x439; v6</name>
+    <article>st_case_v6</article>
+    <count>25</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x438;&#x442;&#x438;&#x43D;&#x433; &#x434;&#x43B;&#x44F; &#x442;&#x435;&#x444;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x43E;&#x439; &#x442;&#x440;&#x443;&#x431;&#x43A;&#x438; 4&#x43C;&#x43C;</name>
+    <article>st_fitting</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43C;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x441;&#x43E;&#x43F;&#x43B;&#x43E; &#x434;&#x43B;&#x44F; &#x44D;&#x43A;&#x441;&#x442;&#x440;&#x443;&#x434;&#x435;&#x440;&#x430; &#x41C;&#x41A;10 &#x434;&#x438;&#x430;&#x43C;&#x435;&#x442;&#x440; 0,3 &#x43C;&#x43C;</name>
+    <article>st_soplo_mk10-03</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43C;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x441;&#x43E;&#x43F;&#x43B;&#x43E; &#x434;&#x43B;&#x44F; &#x44D;&#x43A;&#x441;&#x442;&#x440;&#x443;&#x434;&#x435;&#x440;&#x430; &#x41C;&#x41A;10 &#x434;&#x438;&#x430;&#x43C;&#x435;&#x442;&#x440; 0,4 &#x43C;&#x43C;</name>
+    <article>st_soplo_mk10-04</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43C;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x441;&#x43E;&#x43F;&#x43B;&#x43E; &#x434;&#x43B;&#x44F; &#x44D;&#x43A;&#x441;&#x442;&#x440;&#x443;&#x434;&#x435;&#x440;&#x430; &#x41C;&#x41A;10 &#x434;&#x438;&#x430;&#x43C;&#x435;&#x442;&#x440; 0,5 &#x43C;&#x43C;</name>
+    <article>st_soplo_mk10-05</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 0,8 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_08</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 0,2 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_02</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x440;&#x443;&#x431;&#x43A;&#x430; &#x442;&#x435;&#x444;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x430;&#x44F; 2-4&#x43C;&#x43C; (10&#x441;&#x43C;)</name>
+    <article>st_tube</article>
+    <count>100</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 0,4 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_04</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 0,6 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_06</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 0,5 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_05</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 1 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_1</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41C;&#x443;&#x444;&#x442;&#x430; &#x436;&#x435;&#x441;&#x442;&#x43A;&#x430;&#x44F;</name>
+    <article>st_clutch</article>
+    <count>15</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x433;&#x440;&#x435;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x431;&#x43B;&#x43E;&#x43A; volcano</name>
+    <article>st_block_volcano</article>
+    <count>12</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43A;&#x438;&#x432; 20-&#x437;&#x443;&#x431;&#x44B;&#x439; ?5&#x43C;&#x43C;</name>
+    <article>st_pulley_5mm</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; E3D 0.3&#x43C;&#x43C;</name>
+    <article>st_nozzle_E3D_0.3mm</article>
+    <count>200</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; E3D 0.5&#x43C;&#x43C;</name>
+    <article>st_nozzle_E3D_0.5mm</article>
+    <count>200</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x442;&#x44F;&#x436;&#x438;&#x442;&#x435;&#x43B;&#x44C; &#x440;&#x435;&#x43C;&#x43D;&#x44F;</name>
+    <article>st_natyazhrem</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x43E;&#x43F;&#x43B;&#x43E; 0,3 &#x43C;&#x43C;</name>
+    <article>nozzle_m6_03</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x43A;&#x438;&#x432; 20-&#x437;&#x443;&#x431;&#x44B;&#x439; &#xF8;5&#x43C;&#x43C;</name>
+    <article>st_pulley_5mm</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x435;&#x440;&#x43C;&#x438;&#x441;&#x442;&#x43E;&#x440; (&#x442;&#x435;&#x440;&#x43C;&#x43E;&#x440;&#x435;&#x437;&#x438;&#x441;&#x442;&#x43E;&#x440;) &#x434;&#x43B;&#x44F; 3D &#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x430;</name>
+    <article>st_thermistor</article>
+    <count>50</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x442;&#x435;&#x43A;&#x43B;&#x43E; &#x434;&#x43B;&#x44F; &#x43F;&#x43B;&#x430;&#x442;&#x444;&#x43E;&#x440;&#x43C;&#x44B; Picaso Designer X</name>
+    <article>glass_Picaso Designer X</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x422;&#x440;&#x443;&#x431;&#x43A;&#x430; &#x442;&#x435;&#x444;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x430;&#x44F; ?2-?3</name>
+    <article>st_tube_2-3</article>
+    <count>100</count>
+  </goods>
+  <goods>
+    <name>&#x41C;&#x43E;&#x434;&#x443;&#x43B;&#x44C; &#x434;&#x43B;&#x44F; SD &#x43A;&#x430;&#x440;&#x442; &#x43F;&#x430;&#x43C;&#x44F;&#x442;&#x438;</name>
+    <article>st_module_SD</article>
+    <count>5</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43E;&#x434;&#x448;&#x438;&#x43F;&#x43D;&#x438;&#x43A; 608ZZ</name>
+    <article>st_bearing_608ZZ</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x428;&#x435;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x44F; &#x43F;&#x43E;&#x434;&#x430;&#x447;&#x438; &#x41C;&#x41A;8</name>
+    <article>st_gear_MK8</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>BfWood Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bfwood</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>BfBronze Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bfbronze</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>BFCopper Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 0,5 &#x43A;&#x433; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_bfcopper</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x431;&#x43E;&#x440; &#x43D;&#x438;&#x437;&#x43A;&#x43E;&#x442;&#x435;&#x43C;&#x43F;&#x435;&#x440;&#x430;&#x442;&#x443;&#x440;&#x43D;&#x43E;&#x433;&#x43E; PCL &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; &#x434;&#x43B;&#x44F; 3D-&#x440;&#x443;&#x447;&#x43A;&#x438; (10 &#x446;&#x432;&#x435;&#x442;&#x43E;&#x432;)</name>
+    <article>st_pcl_nabor</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x431;&#x43E;&#x440; PLA &#x434;&#x43B;&#x44F; 3D-&#x440;&#x443;&#x447;&#x43A;&#x438; (10 &#x446;&#x432;&#x435;&#x442;&#x43E;&#x432;)</name>
+    <article>st_nabor_pla_10</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x431;&#x43E;&#x440; ABS &#x434;&#x43B;&#x44F; 3D-&#x440;&#x443;&#x447;&#x43A;&#x438; (10 &#x446;&#x432;&#x435;&#x442;&#x43E;&#x432;)</name>
+    <article>st_nabor_abs_10</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x431;&#x43E;&#x440; Watson &#x434;&#x43B;&#x44F; 3D-&#x440;&#x443;&#x447;&#x43A;&#x438; (10 &#x446;&#x432;&#x435;&#x442;&#x43E;&#x432;)</name>
+    <article>st_nabor_sbs_10</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>ABS: &#x43E;&#x441;&#x442;&#x430;&#x442;&#x43A;&#x438; 1 &#x43A;&#x433;</name>
+    <article>st_abs_ostatki_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>PETG: &#x43E;&#x441;&#x442;&#x430;&#x442;&#x43A;&#x438; 1 &#x43A;&#x433;</name>
+    <article>st_petg_ostatki_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>PLA: &#x43E;&#x441;&#x442;&#x430;&#x442;&#x43A;&#x438; 1 &#x43A;&#x433;</name>
+    <article>st_pla_ostatki_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>WATSON: &#x43E;&#x441;&#x442;&#x430;&#x442;&#x43A;&#x438; 1 &#x43A;&#x433;</name>
+    <article>st_sbs_ostatki_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; ASA &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_ASA_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; ABS-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 2.85 &#x43C;&#x43C;</name>
+    <article>st_prob_ABS_2.85</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; Bflex &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_Bflex_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; BFGummy &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_BFGummy_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; BFNylon &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_nylon_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; BfBronze Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_BfBronze_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; BfWood Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_BfWood_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; HIPS-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_HIPS_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; BFCopper Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_BfCopper_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; ABS-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_ABS_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x43E;&#x433;&#x43E; ABS-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_ABS_transparent_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Watson Bestfilament, 2.85 &#x43C;&#x43C;</name>
+    <article>st_prob_Watson_2.85</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; PC/ABS &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PC/ABS_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; BFCarbon &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; 1,75 &#x43C;&#x43C;</name>
+    <article>st_prob_carbon_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; TPU SOFT &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A; Bestfilament &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x440;&#x438;&#x43D;&#x442;&#x435;&#x440;&#x43E;&#x432; (1,75 &#x43C;&#x43C;)</name>
+    <article>st_prob_TPU_1.75_sky</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; PETG &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PETG_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Watson Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_Watson_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x441;&#x432;&#x435;&#x442;&#x44F;&#x449;&#x435;&#x433;&#x43E;&#x441;&#x44F; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, &#x446;&#x432;&#x435;&#x442; &#x431;&#x438;&#x440;&#x44E;&#x437;&#x43E;&#x432;&#x44B;&#x439;, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_lumiPLA_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43A;&#x440;&#x430;&#x441;&#x43D;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_red</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x433;&#x43E;&#x43B;&#x443;&#x431;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_lightblue</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x440;&#x43E;&#x437;&#x43E;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_pink</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x437;&#x435;&#x43B;&#x435;&#x43D;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_green</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43D;&#x435;&#x431;&#x435;&#x441;&#x43D;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_sky</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43A;&#x43E;&#x440;&#x430;&#x43B;&#x43B;&#x43E;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_coral</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43E;&#x440;&#x430;&#x43D;&#x436;&#x435;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_orange</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x438;&#x437;&#x443;&#x43C;&#x440;&#x443;&#x434;&#x43D;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_emerald</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x441;&#x430;&#x43B;&#x430;&#x442;&#x43E;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_pla</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x441;&#x432;&#x435;&#x442;&#x43B;&#x43E;-&#x441;&#x435;&#x440;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_lightgray</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43A;&#x43E;&#x440;&#x438;&#x447;&#x43D;&#x435;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_brown</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x436;&#x435;&#x43B;&#x442;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_yellow</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x441;&#x432;&#x435;&#x442;&#x44F;&#x449;&#x435;&#x433;&#x43E;&#x441;&#x44F; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, &#x446;&#x432;&#x435;&#x442; &#x43B;&#x438;&#x43C;&#x43E;&#x43D;&#x43D;&#x44B;&#x439;, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_lumiPLA_lemon_1.75</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x441;&#x438;&#x43D;&#x435;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_blue</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 2.85 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_2.85</article>
+    <count>20</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x442;&#x435;&#x43C;&#x43D;&#x43E;-&#x441;&#x435;&#x440;&#x44B;&#x439; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_darkgray</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x43A;&#x440;&#x435;&#x43C;&#x43E;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_cream</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x431;&#x435;&#x43B;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_white_1.75</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x441;&#x435;&#x440;&#x435;&#x431;&#x440;&#x438;&#x441;&#x442;&#x43E;&#x433;&#x43E; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x43A;&#x430; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_pla_probnik_1.75_serebr</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x444;&#x438;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_purple</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x447;&#x435;&#x440;&#x43D;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_black</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x431;&#x43D;&#x438;&#x43A; &#x448;&#x43E;&#x43A;&#x43E;&#x43B;&#x430;&#x434;&#x43D;&#x43E;&#x433;&#x43E; PLA-&#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; Bestfilament, 1.75 &#x43C;&#x43C;</name>
+    <article>st_prob_PLA_1.75_chocolate</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43B;&#x435;&#x439; &#x434;&#x43B;&#x44F; FDM &#x43F;&#x435;&#x447;&#x430;&#x442;&#x438; Picaso 250 &#x43C;&#x43B;</name>
+    <article>st_glue-picaso-250ml</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43B;&#x435;&#x439; &#x434;&#x43B;&#x44F; FDM &#x43F;&#x435;&#x447;&#x430;&#x442;&#x438; Picaso 350 &#x43C;&#x43B;</name>
+    <article>st_glue-picaso-350ml</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x414;&#x438;&#x445;&#x43B;&#x43E;&#x440;&#x43C;&#x435;&#x442;&#x430;&#x43D; (1 &#x43B;&#x438;&#x442;&#x440;)</name>
+    <article>st_dhm</article>
+    <count>4</count>
+  </goods>
+  <goods>
+    <name>"&#x41A;&#x430;&#x43B;&#x44F;&#x43A;&#x430;-&#x41C;&#x430;&#x43B;&#x44F;&#x43A;&#x430;"</name>
+    <article>st_kley</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x43B;&#x435;&#x43D;&#x43A;&#x430; &#x441;&#x430;&#x43C;&#x43E;&#x43A;&#x43B;&#x435;&#x44E;&#x449;&#x430;&#x44F;&#x441;&#x44F; A4 (1 &#x448;&#x442;)</name>
+    <article>st_plenka</article>
+    <count>25</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x443;&#x448;&#x438;&#x43B;&#x43A;&#x430; &#x434;&#x43B;&#x44F; &#x43F;&#x43B;&#x430;&#x441;&#x442;&#x438;&#x43A;&#x430; ESUN eBOX</name>
+    <article>ebox</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41B;&#x430;&#x43A; &#x434;&#x43B;&#x44F; 3D-&#x43F;&#x435;&#x447;&#x430;&#x442;&#x438; 3DLAC 400 ml</name>
+    <article>st_3DLAC</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>Zip lock</name>
+    <article>st_zip-lock</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x43B;&#x435;&#x439; &#x434;&#x43B;&#x44F; FDM &#x43F;&#x435;&#x447;&#x430;&#x442;&#x438; Picaso 150 &#x43C;&#x43B;</name>
+    <article>st_glue-picaso-150ml</article>
+    <count>30</count>
+  </goods>
+  <goods>
+    <name>&#x41B;&#x438;&#x43C;&#x43E;&#x43D;&#x435;&#x43D; (d-Limonene) (1 &#x43B;&#x438;&#x442;&#x440;)</name>
+    <article>st_limonen</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x418;&#x437;&#x43E;&#x43F;&#x440;&#x43E;&#x43F;&#x438;&#x43B;&#x43E;&#x432;&#x44B;&#x439; &#x441;&#x43F;&#x438;&#x440;&#x442;</name>
+    <article>st_isopropyl</article>
+    <count>2</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_bluetr_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_greentr_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_redtr_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; &#x43D;&#x435;&#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_green_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; &#x43D;&#x435;&#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_red_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_blacktr_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; &#x43D;&#x435;&#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; 3DSLA , 1 &#x43A;&#x433;</name>
+    <article>st_3dsla_blue_1kg</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x43C;&#x43E;&#x43B;&#x430; Gorky Liquid "Flex" &#x447;&#x451;&#x440;&#x43D;&#x430;&#x44F; 0,5 &#x43A;&#x433;</name>
+    <article>st_gorky_flex_0.5_black</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x43C;&#x43E;&#x43B;&#x430; Gorky Liquid "Simple" &#x43A;&#x440;&#x430;&#x441;&#x43D;&#x430;&#x44F; 1 &#x43A;&#x433;</name>
+    <article>st_gorky_simple_1.0_clear</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x43C;&#x43E;&#x43B;&#x430; Gorky Liquid "Reactive" &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x430;&#x44F; 1 &#x43A;&#x433;</name>
+    <article>st_gorky_reactive_1.0_clear</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x424;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x43C;&#x43E;&#x43B;&#x430; Gorky Liquid "Simple" &#x43A;&#x440;&#x430;&#x441;&#x43D;&#x430;&#x44F; 0,25 &#x43A;&#x433;</name>
+    <article>st_gorky_simple_0.25_clear</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HARDLIGHT LCD FLEX, 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_flex_0.5_green</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x411;&#x435;&#x43B;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HARD HardLight , 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_0.5_gray</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x417;&#x435;&#x43B;&#x435;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_0.5_green</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41A;&#x440;&#x430;&#x441;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_0.5_red</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 1 &#x43A;&#x433;</name>
+    <article>st_hardlight_1.0_clear</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_0.5_clear</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 1 &#x43A;&#x433;</name>
+    <article>st_hardlight_1.0_blue</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x41D;&#x430;&#x431;&#x43E;&#x440; &#x43F;&#x438;&#x433;&#x43C;&#x435;&#x43D;&#x442;&#x43E;&#x432; HardLight</name>
+    <article>st_hardlight_colour</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>HARDLIGHT CLEANER</name>
+    <article>st_hardlight_cleaner</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x438;&#x43D;&#x438;&#x439; &#x43F;&#x440;&#x43E;&#x437;&#x440;&#x430;&#x447;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_0.5_blue</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x427;&#x435;&#x440;&#x43D;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HardLight , 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_0.5_black</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HARDLIGHT LCD, 0.5 &#x43A;&#x433;  1</name>
+    <article>st_hardlight_hard_0.5_gray</article>
+    <count>0</count>
+  </goods>
+  <goods>
+    <name>&#x421;&#x435;&#x440;&#x44B;&#x439; &#x444;&#x43E;&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x438;&#x43C;&#x435;&#x440; HARDLIGHT LCD TOUGH, 0.5 &#x43A;&#x433;</name>
+    <article>st_hardlight_tough_0.5_gray</article>
+    <count>0</count>
+  </goods>
+</root_items>

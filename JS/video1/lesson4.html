@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // var x = prompt('number');
+        // switch(x){
+        //     case '1': alert('here 1');
+        //     break;
+        //     case '2': alert('here 2');
+        //     break;
+        //     case '3': alert('here 3');
+        //     break;
+        //     case '4': alert('here 4');
+        //     break;
+        //     default: alert('any ' + x);
+        // }
+
+        var a = prompt('input number');
+        var b = prompt('input number');
+        var y= prompt('input 1(+) or 2(-) or 3(*) or 4(/)');
+
+        var a = parseInt(a);
+        var b = parseInt(b);
+
+        var result;
+        switch(y){
+            case '1': result= a+b;
+            break;
+            case '2': result= a-b;
+            break;
+            case '3': result= a*b;
+            break;
+            case '4': result= a/b;
+            break;
+            default: result="choice decide";
+            
+        }
+        alert(result);
+    </script>
+</body>
+</html>

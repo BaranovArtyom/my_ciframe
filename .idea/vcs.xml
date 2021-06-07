@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/curl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/curl/libs/nixsolutions/yandex-php-library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dalli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dalli_oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ecwid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-huk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parsinSite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parsing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/retail_mealjoy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testWorkYandex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_ecwid-shopify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work_yandex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yandex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yandexDiskWorker" vcs="Git" />
+  </component>
+</project>

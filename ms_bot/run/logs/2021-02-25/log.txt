@@ -1,0 +1,35 @@
+2021-02-25T13:21:08+02:00 [MOYSKLAD => APP] Received: method=DELETE, path=
+2021-02-25T13:21:08+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"c01bcede-6559-11eb-0a80-006a00005e6e"}
+2021-02-25T13:21:08+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = )
+2021-02-25T13:21:08+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"kevekos826","cause":"Uninstall"}
+2021-02-25T13:21:08+02:00 [App-delete] {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"c01bcede-6559-11eb-0a80-006a00005e6e"}
+2021-02-25T13:21:08+02:00 [Delete] "c01bcede-6559-11eb-0a80-006a00005e6e" /home/www/i.spey.ru/web/saas/shopbot_prod/run/data/deleted/c01bcede-6559-11eb-0a80-006a00005e6e.json
+2021-02-25T14:35:38+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-02-25T14:35:38+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"cc77243e-775a-11eb-0a80-026f00004058"}
+2021-02-25T14:35:38+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = d6476930579653fb578c318008d4f59de326c5b9)
+2021-02-25T14:35:38+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"jiwiwik532","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"d6476930579653fb578c318008d4f59de326c5b9"}],"cause":"Install"}
+2021-02-25T14:35:38+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+d6476930579653fb578c318008d4f59de326c5b9
+2021-02-25T15:03:47+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-02-25T15:03:47+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"3eadb83c-0af4-11e6-7a69-971100003d54"}
+2021-02-25T15:03:47+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = 67cc6a6a35c4a6ccdfa1036cc3c292d9142dfc40)
+2021-02-25T15:03:47+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"smoky","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"67cc6a6a35c4a6ccdfa1036cc3c292d9142dfc40"}],"cause":"Install"}
+2021-02-25T15:03:47+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+67cc6a6a35c4a6ccdfa1036cc3c292d9142dfc40
+2021-02-25T18:10:48+02:00 [MOYSKLAD => APP] Received: method=DELETE, path=
+2021-02-25T18:10:48+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"3eadb83c-0af4-11e6-7a69-971100003d54"}
+2021-02-25T18:10:48+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = )
+2021-02-25T18:10:48+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"smoky","cause":"Uninstall"}
+2021-02-25T18:10:48+02:00 [App-delete] {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"3eadb83c-0af4-11e6-7a69-971100003d54"}
+2021-02-25T18:10:48+02:00 [Delete] "3eadb83c-0af4-11e6-7a69-971100003d54" /home/www/i.spey.ru/web/saas/shopbot_prod/run/data/deleted/3eadb83c-0af4-11e6-7a69-971100003d54.json
+2021-02-25T19:21:48+02:00 [MOYSKLAD => APP] Received: method=DELETE, path=
+2021-02-25T19:21:48+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"23d7723c-4515-11eb-0a80-06920000c136"}
+2021-02-25T19:21:48+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = )
+2021-02-25T19:21:48+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"armika","cause":"Uninstall"}
+2021-02-25T19:21:48+02:00 [App-delete] {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"23d7723c-4515-11eb-0a80-06920000c136"}
+2021-02-25T19:21:48+02:00 [Delete] "23d7723c-4515-11eb-0a80-06920000c136" /home/www/i.spey.ru/web/saas/shopbot_prod/run/data/deleted/23d7723c-4515-11eb-0a80-06920000c136.json

@@ -1,0 +1,73 @@
+============[Date]============
+[ 2021-02-24 20:13:14  Europe/Kiev ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message can't be deleted for everyone
+=========[Sent Data]==========
+[ref]
+ref.update_id= 641857574
+ref.callback_query.id= 2186240875451180491
+ref.callback_query.from.id= 509023870
+ref.callback_query.from.is_bot= false
+ref.callback_query.from.first_name= HOOKAH FRIEND
+ref.callback_query.from.username= HF281
+ref.callback_query.from.language_code= ru
+ref.callback_query.message.message_id= 880
+ref.callback_query.message.from.id= 1666873792
+ref.callback_query.message.from.is_bot= true
+ref.callback_query.message.from.first_name= Hookah Friend
+ref.callback_query.message.from.username= HF_Sales_bot
+ref.callback_query.message.chat.id= 509023870
+ref.callback_query.message.chat.first_name= HOOKAH FRIEND
+ref.callback_query.message.chat.username= HF281
+ref.callback_query.message.chat.type= private
+ref.callback_query.message.date= 1613364500
+ref.callback_query.message.photo.0.file_id= AgACAgQAAxkDAAIDcGAp_RRNy7mQyW2lN5242DesAzwuAALhqzEb3w79UIN4cNcTr5b6xRTzJ10AAwEAAwIAA20AA77iBAABHgQ
+ref.callback_query.message.photo.0.file_unique_id= AQADxRTzJ10AA77iBAAB
+ref.callback_query.message.photo.0.file_size= 16331
+ref.callback_query.message.photo.0.width= 227
+ref.callback_query.message.photo.0.height= 320
+ref.callback_query.message.photo.1.file_id= AgACAgQAAxkDAAIDcGAp_RRNy7mQyW2lN5242DesAzwuAALhqzEb3w79UIN4cNcTr5b6xRTzJ10AAwEAAwIAA3gAA7_iBAABHgQ
+ref.callback_query.message.photo.1.file_unique_id= AQADxRTzJ10AA7_iBAAB
+ref.callback_query.message.photo.1.file_size= 66031
+ref.callback_query.message.photo.1.width= 567
+ref.callback_query.message.photo.1.height= 800
+ref.callback_query.message.photo.2.file_id= AgACAgQAAxkDAAIDcGAp_RRNy7mQyW2lN5242DesAzwuAALhqzEb3w79UIN4cNcTr5b6xRTzJ10AAwEAAwIAA3kAA8DiBAABHgQ
+ref.callback_query.message.photo.2.file_unique_id= AQADxRTzJ10AA8DiBAAB
+ref.callback_query.message.photo.2.file_size= 106903
+ref.callback_query.message.photo.2.width= 814
+ref.callback_query.message.photo.2.height= 1148
+ref.callback_query.message.caption= Oblepiha
+
+Сладкий. Сочный. Невозможно устоять перед манящим вкусом ягоды солнца! Не забудь надеть солнцезащитные очки!⁣⁣
+
+Цена: 620 czk
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.text= ✅ Добавить в корзину
+ref.callback_query.message.reply_markup.inline_keyboard.0.0.callback_data= add_69019
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.text= 🛒 Корзина
+ref.callback_query.message.reply_markup.inline_keyboard.1.0.callback_data= cart_
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.text= ↻ В меню
+ref.callback_query.message.reply_markup.inline_keyboard.2.0.callback_data= menu_btn
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.text= ↶ Назад
+ref.callback_query.message.reply_markup.inline_keyboard.3.0.callback_data= duft100g_
+ref.callback_query.chat_instance= -3484529790371258118
+ref.callback_query.data= menu_btn
+
+
+[ref]
+ref.message_id= 880
+
+
+============[Trace]===========
+#0 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/www/i.spey.ru/web/saas/shopbot_prod/run/vendor/eleirbag89/telegrambotphp/Telegram.php(3061): Telegram->endpoint('deleteMessage', Array)
+#3 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(90): Telegram->deleteMessage(Array)
+#4 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(110): MyTgBot->deleteLastMessage()
+#5 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(185): MyTgBot->sendMenu()
+#6 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(836): MyTgBot->handleDescription()
+#7 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(909): MyTgBot->handleUserReply()
+#8 /home/www/i.spey.ru/web/saas/shopbot_prod/run/telegram/telegramBot.php(945): MyTgBot->run()
+#9 {main}
+

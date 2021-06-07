@@ -1,0 +1,7 @@
+2021-03-01T14:57:56+02:00 [MOYSKLAD => APP] Received: method=PUT, path=
+2021-03-01T14:57:56+02:00 [MOYSKLAD => APP] Received: get = {"appid":"3b274e53-db3b-454c-ab5d-629cc3eac296","accid":"d478f7fd-b74f-11e8-9109-f8fc000025fb"}
+2021-03-01T14:57:56+02:00 [MOYSKLAD => APP] (appId = , accountId = , appUid = shopbot.ciframe, access_token = eaea77224678e6bb8caf3b97a49d3617f380b330)
+2021-03-01T14:57:56+02:00 [MOYSKLAD => APP] Request body:
+{"appUid":"shopbot.ciframe","accountName":"hookahtime","access":[{"resource":"https://online.moysklad.ru/api/remap/1.2","scope":["admin"],"access_token":"eaea77224678e6bb8caf3b97a49d3617f380b330"}],"cause":"Install"}
+2021-03-01T14:57:56+02:00 [MOYSKLAD => APP] Request PUT acctoken:
+eaea77224678e6bb8caf3b97a49d3617f380b330

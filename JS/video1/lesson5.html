@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var loc1 = 3;
+        var loc2 = 4;
+        var loc3 = 5;
+
+        var guess;
+        var hits = 0;
+        var guesses = 0;
+
+        var isSunk = false;
+        while(isSunk == false){
+            guess = prompt("ready pih puh , input number(0-6)");
+            if (guess < 0 || guess > 6){
+                alert("0-6 need");
+            }else{
+                guesses = guesses + 1;
+                if(guess == loc1 || guess==loc2 || guess==loc2){
+                    hits = hits +1;
+                    if(hits == 3){
+                        isSunk = true;
+                        alert("you win");
+                    }
+                }else {
+                    alert("ты промазал");
+                }
+            }
+        }
+var status = "you pic puh " + guesses + "Для того за сколmко попали, ваша точность "+ (3/guesses);
+    alert(status);
+    </script>
+</body>
+</html>

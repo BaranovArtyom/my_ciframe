@@ -1,0 +1,42 @@
+commerce_product
+
+product_id	156722
+revision_id	3168   брать из commerce_product_revision
+sku	        9999
+title	    test9
+type	    product
+language	ru
+uid		    1
+status		1
+created		1620735863
+changed		1620735863
+data	NULL
+************************************
+commerce_product_revision
+156722	3168	9999	test9	1	1		1620735863	NULL
+*************************************
+field_data_commerce_price
+
+entity_type	      bundle	deleted	entity_id	revision_id	language	delta	commerce_price_amount	commerce_price_currency_code	commerce_price_data
+commerce_product  product	0	    156722	    NULL	     und	      0	           9999	               UAH	NULL
+***************************************
+field_data_field_product надо id ноде
+***************************************
+field_revision_commerce_price
+commerce_product	product	0	156722	3168	und	0	9999	UAH	NULL
+***************************************
+field_revision_field_product надо id ноде
+***************************************
+node_revision
+9999	1221	1	test9		1620735863	1	2	0	0
+********************************************
+node 
+9999	1221	product	ru	test9	1	1	1620735863	1620735863	2	0	0	0	0
+*********************************************
+по доп.полям
+статус это опубликованный в админке
+выгрузка на сайт это вызгрузка
+
+/*********************************
+для картинок
+field_data_field_product_img по id node получаем поле field_product_img_fid где в file_managed находится картинка

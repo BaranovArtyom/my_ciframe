@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/curl/libs/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/curl/libs/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/curl/libs/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/curl/libs/composer" />
+      <path value="$PROJECT_DIR$/curl/libs/nixsolutions/yandex-php-library" />
+      <path value="$PROJECT_DIR$/curl/libs/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/curl/libs/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/curl/libs/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/curl/libs/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/curl/libs/psr/http-message" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
