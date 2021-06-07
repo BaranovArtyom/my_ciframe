@@ -194,7 +194,7 @@ if (!empty($sel)){
 
 
 $fecha = date("Y-m-d_h:i:s");
-// dd($fecha);exit;
+dd($fecha);exit;
 
 // Отдача на скачивание
 header("Expires: Mon, 1 Apr 1974 05:00:00 GMT");
