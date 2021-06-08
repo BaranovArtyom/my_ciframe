@@ -6,21 +6,29 @@ require_once "funcs.php";
 
 /**фио продавцов */
 $GetSeller = GetSeller();
-// dd($GetSeller);
-// exit; 
+// // dd($GetSeller);
+// // exit; 
 
 
 /**дата для выборки отгрузок*/
 // $data_fr = $_POST['data_from'];
-$data_fr = '2021-06-02';                                // тестовые даты
+$data_fr = '2021-06-01';                                // тестовые даты
 $data_from = date($data_fr." 00:00:00");                 //дата с 
 $data_from = urlencode($data_from);
 // dd($data_from);
 
 // $data_t = $_POST['data_to'];
-$data_t = '2021-06-04';
+$data_t = '2021-06-07';
 $data_to = date($data_t." 23:59:59");                   //дата до
 $data_to = urlencode($data_to);
+
+/**массив выбранных продавцов */
+if (!empty($_POST['sellerList'])){
+    $nameSeller = $_POST['sellerList']; // Аркадий 'Богдан'
+}else {
+    $nameSeller = [];
+}
+$nameSeller = ['Белкин С. С.','Морозов А. А.','Морозов А.']; // для теста
 
 /**получение размер отгрузок*/
 $getSizeDemand = getSizeDemand($data_from, $data_to); 
@@ -41,9 +49,9 @@ while ($page < $max_pages) {
         if (isset($demand->owner->meta->href)) {                // проверка наличие продавца
             // dd($demand->owner->meta->href);
             $getSellerByid = getSellerByid($demand->owner->meta->href); // получение имение продавца по id
-            // dd($getSellerByid->name);
-            if(!empty($GetSeller)){
-                if (in_array($getSellerByid->name, $GetSeller)){     // проверка на вхождение в массив имена
+            dd($getSellerByid->name);
+            if(!empty($nameSeller)){
+                if (in_array($getSellerByid->name, $nameSeller)){     // проверка на вхождение в массив имена
                     $seller['name'] = $getSellerByid->name;
                     $date = explode(' ', $demand->moment);
                     $seller['number_order'] = $demand->name;
@@ -94,7 +102,7 @@ while ($page < $max_pages) {
     $page++;
 }
 
-// dd($sel);
+dd($sel);exit;
 require_once __DIR__.'/Classes/PHPExcel.php';
 require_once __DIR__.'/Classes/PHPExcel/Writer/Excel2007.php';
 require_once __DIR__.'/Classes/PHPExcel/IOFactory.php';
