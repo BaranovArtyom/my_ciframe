@@ -12,13 +12,13 @@ $GetSeller = GetSeller();
 
 /**дата для выборки отгрузок*/
 $data_fr = $_POST['data_from'];
-// $data_fr = '2021-06-04';                                // тестовые даты
+$data_fr = '2021-06-04';                                // тестовые даты
 $data_from = date($data_fr." 00:00:00");                 //дата с 
 $data_from = urlencode($data_from);
 // dd($data_from);
 
 $data_t = $_POST['data_to'];
-// $data_t = '2021-06-07';
+$data_t = '2021-06-07';
 $data_to = date($data_t." 23:59:59");                   //дата до
 $data_to = urlencode($data_to);
 
@@ -28,7 +28,9 @@ if (!empty($_POST['sellerList'])){
 }else {
     $nameSeller = [];
 }
-// $nameSeller = ['Морозов А.']; // для теста
+$nameSeller = ['Морозов А.']; // для теста
+
+
 
 /**получение размер отгрузок*/
 $getSizeDemand = getSizeDemand($data_from, $data_to); 
@@ -38,6 +40,7 @@ $page = 0; $limit = 1000;
 $demand_size = getSizeDemand($data_from, $data_to);			    // получаем размер отгрузок
 $max_pages = ceil($demand_size / $limit);                       // количество страниц
 // dd($max_pages);
+
 
 /**перебор всех отгрузок за период заданный*/
 while ($page < $max_pages) {
@@ -111,6 +114,75 @@ while ($page < $max_pages) {
     }
     $page++;
 }
+
+/**получение продаж розницы */
+$getRetailDemand = getRetailDemand($data_from, $data_to);
+// dd($getRetailDemand);
+    foreach ($getRetailDemand as $retail) {
+        if (isset($retail->owner->meta->href)) {                // проверка наличие продавца
+            // dd($retail->owner->meta->href);
+            $getSellerByid = getSellerByid($retail->owner->meta->href); // получение имение продавца по id
+            // dd($getSellerByid->name);
+            if(!empty($nameSeller)){
+                if (in_array($getSellerByid->name, $nameSeller)){     // проверка на вхождение в массив имена
+                    getNameAgent($retail->agent->meta->href);
+                    $roz['agent_name'] =  getNameAgent($retail->agent->meta->href);
+                    // dd($demand->agent->meta->href);exit;
+                    $roz['name'] = $getSellerByid->name;
+                    $date = explode(' ', $retail->moment);
+                    $roz['number_order'] = $retail->name;
+                    $roz['date'] = $date[0];                      // получение даты
+                    $roz['kol_zakazov'] = 1;
+                    $roz['kol_positions'] = (int)$retail->positions->meta->size;
+                    $roz['sum_zakaza'] = (int)$retail->sum;
+                    
+                    $roz['sum_prodavec_zakaza'] = 0;
+                    if(isset($demand->positions)){                  // проверка позиций в заказе
+                        $getPositions = getPositions($retail->positions->meta->href);
+                        // dd($getPositions);exit;
+                        
+                        foreach ($getPositions as $product) {
+                            // dd((int)$product->price);
+                            // dd($product);exit;
+                            if ((int)$product->discount == 0) {
+                                $discount = $product->discount;
+                                $discount = NULL;
+                                $sum  = 10 - $discount;
+                            }else {
+                                $discount = $product->discount;
+                                $sum  = 10 - $discount;
+                            }
+                           
+                            if ($product->assortment->meta->type == 'product'){ //проверка ассортимента на продукт или вариант
+                                $getProduct = getProduct($product->assortment->meta->href, $discount);
+                                // dd($getProduct);
+                                $roz['sum_prodavec_zakaza'] += number_format($getProduct, 2, '.', '');
+                            }elseif( $product->assortment->meta->type == 'variant'){
+                                // dd($product);exit;
+                                // $getProduct = getProduct($product->assortment->meta->href);
+                                $getProductVariant = getProductVariant($product->assortment->meta->href);
+                                // dd($getProductVariant);
+                                $getProduct = getProduct($getProductVariant, $discount);
+                                // dd($getProduct);
+                                $roz['sum_prodavec_zakaza'] += number_format($getProduct, 2, '.', '');
+                                // exit;
+                            }
+
+                           
+                        }
+                        // dd($getPositions);
+                    }
+
+                    $rz[$date[0]][$getSellerByid->name][] = $roz;
+
+                }
+
+            }
+        }
+    }
+
+dd($rz);exit;
+// exit;
 
 // dd($sel);exit;
 require_once __DIR__.'/Classes/PHPExcel.php';
