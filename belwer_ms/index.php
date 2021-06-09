@@ -1,6 +1,7 @@
 <?php
 ini_set('display_errors', 'on');
 require_once "funcs.php";
+set_time_limit(600);
 
 /**фио продавцов */
 $GetSeller = GetSeller();

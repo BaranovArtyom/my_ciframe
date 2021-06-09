@@ -12,13 +12,13 @@ $GetSeller = GetSeller();
 
 /**дата для выборки отгрузок*/
 $data_fr = $_POST['data_from'];
-$data_fr = '2021-06-04';                                // тестовые даты
+// $data_fr = '2021-06-04';                                // тестовые даты
 $data_from = date($data_fr." 00:00:00");                 //дата с 
 $data_from = urlencode($data_from);
 // dd($data_from);
 
 $data_t = $_POST['data_to'];
-$data_t = '2021-06-07';
+// $data_t = '2021-06-07';
 $data_to = date($data_t." 23:59:59");                   //дата до
 $data_to = urlencode($data_to);
 
@@ -28,7 +28,7 @@ if (!empty($_POST['sellerList'])){
 }else {
     $nameSeller = [];
 }
-$nameSeller = ['Морозов А.']; // для теста
+// $nameSeller = ['Морозов А.']; // для теста
 
 
 
@@ -181,7 +181,7 @@ $getRetailDemand = getRetailDemand($data_from, $data_to);
         }
     }
 
-dd($rz);exit;
+// dd($rz);exit;
 // exit;
 
 // dd($sel);exit;
@@ -195,11 +195,11 @@ $xls = new PHPExcel();
 if (!empty($sel)){
         $xls->setActiveSheetIndex(0);
         $sheet = $xls->getActiveSheet();
-        $sheet->setTitle("Продавцы");
+        $sheet->setTitle("Отгрузки");
 
         $i=1;
         $sheet->setCellValue("A".$i, "Имя клиента");
-        $sheet->setCellValue("B".$i, "Номер отгрузки/продажа");
+        $sheet->setCellValue("B".$i, "Номер отгрузки");
         $sheet->setCellValue("C".$i, "Дата документа");
         $sheet->setCellValue("D".$i, "кол-во позиций");
         $sheet->setCellValue("E".$i, "сумма заказа");
@@ -317,6 +317,131 @@ if (!empty($sel)){
 
 
 }
+// if (!empty($rz)){
+//     $xls->setActiveSheetIndex(1);
+//     $sheet = $xls->getActiveSheet();
+//     $sheet->setTitle("Розница");
+
+//     $i=1;
+//     $sheet->setCellValue("A".$i, "Имя клиента");
+//     $sheet->setCellValue("B".$i, "Номер продажи");
+//     $sheet->setCellValue("C".$i, "Дата документа");
+//     $sheet->setCellValue("D".$i, "кол-во позиций");
+//     $sheet->setCellValue("E".$i, "сумма заказа");
+//     $sheet->setCellValue("F".$i, "Процент от продаж");
+//     // $sheet->setCellValue("G".$i, "номер заказа");
+
+//     $sheet->getColumnDimension("A")->setAutoSize(true);
+//     $sheet->getColumnDimension("B")->setAutoSize(true);
+//     $sheet->getColumnDimension("C")->setAutoSize(true);
+//     $sheet->getColumnDimension("D")->setAutoSize(true);
+//     $sheet->getColumnDimension("E")->setAutoSize(true);
+//     $sheet->getColumnDimension("F")->setAutoSize(true);
+//     // $sheet->getColumnDimension("G")->setAutoSize(true);
+
+
+//     $sheet->getStyle("A1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+//     $sheet->getStyle("B1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+//     $sheet->getStyle("C1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+//     $sheet->getStyle("D1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+//     $sheet->getStyle("E1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+//     $sheet->getStyle("F1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+//     // $sheet->getStyle("G1")->getAlignment()->setHorizontal(PHPExcel_Style_Alignment::HORIZONTAL_CENTER);
+
+//     foreach($rz as $key=>$rs) {
+//         // dd($sels);
+    
+//         $itog_sum=$itog_position=$itog_zakaz=$itog_sum_prodavec_zakaza = 0;
+//         foreach ($rs as $r) {
+//             // dd($s[0]['date']);exit;
+            
+//             $kol_zakaz = $kol_positions = $sum_zakaza = $sum_prodavec_zakaza = 0;
+//             foreach ($r as $b) {
+//                 // dd($a);exit;
+//                 $agent_name = $b['agent_name'];
+//                 // dd($agent_name);exit;
+//                 $name = $b['name'];
+//                 $number = $b['number_order'];
+//                 $data = $b['date'];
+//                 $kol_zakaz = $b['kol_zakazov'];
+//                 $kol_positions = $b['kol_positions'];
+//                 $sum_zakaza = $b['sum_zakaza'];
+//                 $sum_prodavec_zakaza = $b['sum_prodavec_zakaza'];
+
+//                 $sum_zakaza = $sum_zakaza/100;
+//                 // $format_number = number_format($num, 2, ',', '');
+//                 $sheet->setCellValueExplicit("A".++$i, $agent_name, PHPExcel_Cell_DataType::TYPE_STRING);	
+//                 $sheet->setCellValueExplicit("B".$i, $number, PHPExcel_Cell_DataType::TYPE_STRING);
+//                 $sheet->setCellValueExplicit("C".$i, $data, PHPExcel_Cell_DataType::TYPE_STRING);
+//                 $sheet->setCellValueExplicit("D".$i, $kol_positions, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//                 $sheet->setCellValueExplicit("E".$i, $sum_zakaza, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//                 $sheet->setCellValueExplicit("F".$i, $sum_prodavec_zakaza, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//                 // $sheet->setCellValueExplicit("G".$i, $sum_prodavec_zakaza, PHPExcel_Cell_DataType::TYPE_STRING);
+//                 $itog_zakaz += $kol_zakaz;
+//                 $itog_position += $kol_positions; 
+//                 $itog_sum += $sum_zakaza;      
+//                 $itog_sum_prodavec_zakaza += $sum_prodavec_zakaza;   
+                
+//             }
+//             // $sum_zakaza = $sum_zakaza/100;
+//             // // $format_number = number_format($num, 2, ',', '');
+//             // $sheet->setCellValueExplicit("A".++$i, $key, PHPExcel_Cell_DataType::TYPE_STRING);	
+//             // $sheet->setCellValueExplicit("B".$i, $name, PHPExcel_Cell_DataType::TYPE_STRING);
+//             // $sheet->setCellValueExplicit("C".$i, $kol_zakaz, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//             // $sheet->setCellValueExplicit("D".$i, $kol_positions, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//             // $sheet->setCellValueExplicit("E".$i, $sum_zakaza, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//             // $sheet->setCellValueExplicit("F".$i, $sum_prodavec_zakaza, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+            
+//             $total_itog_zakaz += $itog_zakaz;
+//             $total_itog_position += $itog_position; 
+//             $total_itog_sum += $itog_sum;      
+//             $total_itog_sum_prodavec_zakaza += $itog_sum_prodavec_zakaza;     
+
+//             $border = array(
+//                 'borders'=>array(
+//                     'allborders' => array(
+//                         'style' => PHPExcel_Style_Border::BORDER_THIN,
+//                         'color' => array('rgb' => '000000')
+//                     )
+//                 )
+//             );
+             
+//             $sheet->getStyle("A".$i.":F".$i)->applyFromArray($border);
+//         }
+
+//         $sheet->setCellValueExplicit("A".++$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);	
+//         $sheet->setCellValueExplicit("B".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("C".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("D".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("E".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("F".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+
+//     }
+
+//         $sheet->setCellValueExplicit("A".++$i, $name, PHPExcel_Cell_DataType::TYPE_STRING);	
+//         $sheet->setCellValueExplicit("B".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("C".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("D".$i, $total_itog_position, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//         $sheet->setCellValueExplicit("E".$i, $total_itog_sum, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+//         $sheet->setCellValueExplicit("F".$i, $total_itog_sum_prodavec_zakaza, PHPExcel_Cell_DataType::TYPE_NUMERIC);
+
+//         $bg = array(
+//             'fill' => array(
+//                 'type' => PHPExcel_Style_Fill::FILL_SOLID,
+//                 'color' => array('rgb' => '01B050')
+//             )
+//         );
+//         $sheet->getStyle("A".$i.":F".$i)->applyFromArray($bg);
+
+//         $sheet->setCellValueExplicit("A".++$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);	
+//         $sheet->setCellValueExplicit("B".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("C".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("D".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("E".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+//         $sheet->setCellValueExplicit("F".$i, " ", PHPExcel_Cell_DataType::TYPE_STRING);
+
+
+// }
 
 
 $fecha = date("Y-m-d_h:i:s");
