@@ -182,6 +182,7 @@ function getProduct($href, $discount) {
                 // dd($procent_skidka);
                 // dd($total_sum);
                 $sum = ($total_sum-$sum_zakaza)/100*$procent_skidka;
+                // $sum = number_format($sum, 2, ',', '');
                 // dd($sum);
                 
             }

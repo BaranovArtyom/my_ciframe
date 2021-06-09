@@ -1,15 +1,17 @@
 <?php
-ini_set('display_errors', 'on');
-function dd($value) {
-    echo '<pre>';
-    print_r($value);
-    echo '</pre>';
-}
+// ini_set('display_errors', 'on');
 
-$num = 1225823/100;
+// function dd($value) {
+//     echo '<pre>';
+//     print_r($value);
+//     echo '</pre>';
+// }
+
+echo 1;exit;
+$num = 681,68725099602;
 $format_number = number_format($num, 2, ',', '');
 // 1234.57
-echo $english_format_number;exit;
+echo $format_number;exit;
 
 
 // $content = base64_encode(file_get_contents('http://newtea.ua/sites/default/files/node/product'));

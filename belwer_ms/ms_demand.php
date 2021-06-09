@@ -6,8 +6,8 @@ require_once "funcs.php";
 
 /**фио продавцов */
 $GetSeller = GetSeller();
-// // dd($GetSeller);
-// // exit; 
+// dd($GetSeller);
+// exit; 
 
 
 /**дата для выборки отгрузок*/
@@ -28,7 +28,7 @@ if (!empty($_POST['sellerList'])){
 }else {
     $nameSeller = [];
 }
-// $nameSeller = ['Белкин С. С.','Морозов А. А.','Морозов А.']; // для теста
+// $nameSeller = ['Морозов А.']; // для теста
 
 /**получение размер отгрузок*/
 $getSizeDemand = getSizeDemand($data_from, $data_to); 
@@ -82,7 +82,7 @@ while ($page < $max_pages) {
                             if ($product->assortment->meta->type == 'product'){ //проверка ассортимента на продукт или вариант
                                 $getProduct = getProduct($product->assortment->meta->href, $discount);
                                 // dd($getProduct);
-                                $seller['sum_prodavec_zakaza'] += $getProduct;
+                                $seller['sum_prodavec_zakaza'] += number_format($getProduct, 2, '.', '');
                             }elseif( $product->assortment->meta->type == 'variant'){
                                 // dd($product);exit;
                                 // $getProduct = getProduct($product->assortment->meta->href);
@@ -90,7 +90,7 @@ while ($page < $max_pages) {
                                 // dd($getProductVariant);
                                 $getProduct = getProduct($getProductVariant, $discount);
                                 // dd($getProduct);
-                                $seller['sum_prodavec_zakaza'] += $getProduct;
+                                $seller['sum_prodavec_zakaza'] += number_format($getProduct, 2, '.', '');
                                 // exit;
                             }
 
