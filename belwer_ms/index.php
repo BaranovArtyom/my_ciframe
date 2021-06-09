@@ -4,8 +4,8 @@ require_once "funcs.php";
 
 /**фио продавцов */
 $GetSeller = GetSeller();
-// dd($GetSeller);
-// exit; 
+dd($GetSeller);
+exit; 
 
 // dd($_SERVER['DOCUMENT_ROOT']);exit;
 
