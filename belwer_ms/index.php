@@ -30,7 +30,7 @@ $GetSeller = GetSeller();
                     <h2>Дата до:</h2>
                     <input class="form-control" type="date" name="data_to" required></br></br>
                     <h2>Продавцы:</h2>
-                    <select class="form-control" name="sellerList[]" multiple >
+                    <select class="form-control" name="sellerList[]" >
                         <?php $sel = [];?>
                             <?php foreach($GetSeller as $nameSel): ?>
                                 
