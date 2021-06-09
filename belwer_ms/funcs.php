@@ -149,7 +149,7 @@ function getPositions($href) {
 }
 
 /**получение продукта для проверки и получение скидки на товар */
-function getProduct($href) {
+function getProduct($href, $discount) {
         $curl = curl_init();
 
     curl_setopt_array($curl, array(
@@ -175,15 +175,22 @@ function getProduct($href) {
     if (isset($response->attributes)){
         foreach ($response->attributes as $attribute) {
             if ($attribute->name == 'Продавец %') {
+                $sum_zakaza = $response->salePrices[0]->value/10000*$discount;
+                $total_sum = $response->salePrices[0]->value/100;
+                // dd($sum_zakaza);
                 $procent_skidka = (int)$attribute->value;
-                $sum = $response->salePrices[0]->value/10000*$procent_skidka;
+                // dd($procent_skidka);
+                // dd($total_sum);
+                $sum = ($total_sum-$sum_zakaza)/100*$procent_skidka;
+                // dd($sum);
+                
             }
         }
         
     }
    
     // dd($response->salePrices[0]->value/10000*$procent_skidka);exit;
-
+    // dd($sum);exit;
     return $sum;
 }
 
@@ -211,4 +218,30 @@ function getProductVariant($href) {
 
     curl_close($curl);
     return $response->product->meta->href;
+}
+
+/**получение имя клиента */
+function getNameAgent($href) {
+        $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => $href,
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->name;
 }
