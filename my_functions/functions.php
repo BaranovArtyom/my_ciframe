@@ -1,4 +1,9 @@
 <?php
+
+/**для проверки файла на размер и чистка его  */
+$size = filesize('logger.log');
+if ($size>11462000) file_put_contents('logger.log', '');
+
 /**восстановление базы из дампа */
 exec("mysql --user=".DB_USER." --password=".DB_PASSWORD." --host=".DB_HOST." ".DB_NAME." < $dir"."/dump/"."2021-01-27_12".".sql");
 

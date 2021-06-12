@@ -3,6 +3,11 @@ ini_set('display_errors', 'on');
 require_once "funcs.php";
 require_once "config.php";
 
+$size = filesize('logger.log');
+dd($size);
+if ($size>11462000) file_put_contents('logger.log', '');
+dd($size);
+exit;
 /**получение размер продаж розницы*/
 
 $all_retailDemands = array();
@@ -29,8 +34,10 @@ while ($page < $max_pages) {
                 /**заполнение таблицы в retail_demand в бд */
                 $insertDB = mysqli_query($db,"INSERT INTO `retail_demand` (`id`, `number_order`, `moment`,`kol_pos`,`sum_order`,`id_seller`,`id_agent`,`href_positions`) 
                 VALUES (NULL, '{$number_order}','{$data}','{$kol_pos}','{$sum_order}','{$id_seller}','{$id_agent}','{$positions}') ");
+                file_put_contents('logger.log',date('Y-m-d H:i:s').'  создания розницы - '.$insertDB."\n",FILE_APPEND);
                 dd($insertDB);
             }
+            file_put_contents('logger.log',date('Y-m-d H:i:s').'  нет  новой розницы - '."\n",FILE_APPEND);
         }
     $page++;
 }
