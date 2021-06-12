@@ -35,6 +35,59 @@ function getSizeDemand($date_from, $data_to){
     curl_close($curl);
     return $response->meta->size;
 }
+/**получение отгрузок для бд размер */
+function getSizeD(){
+
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/demand/',
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->meta->size;
+}
+
+/**получение продаж */
+function getSizeRetailDemand(){
+
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/retaildemand/',
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->meta->size;
+}
 
 /**получение всех отгрузок по дате */
 function getDemand($date_from, $data_to, $offset){
@@ -43,6 +96,60 @@ function getDemand($date_from, $data_to, $offset){
 
     curl_setopt_array($curl, array(
     CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/demand?filter=moment%3E='.$date_from.';moment%3C='.$data_to.'&limit=1000&offset='.$offset.'&order=moment,asc',
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->rows;
+}
+
+/**получение всех продаж по рознице */
+function getRDemand($offset){
+
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/retaildemand?limit=1000&offset='.$offset,
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->rows;
+}
+
+/**получение всех продаж по рознице */
+function getDemand_bd($offset){
+
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/demand?limit=1000&offset='.$offset,
     CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => '',
@@ -273,3 +380,87 @@ function getRetailDemand($date_from, $data_to) {
     curl_close($curl);
     return $response->rows;
 }
+
+/**получение продавцов  */
+function getSel() {
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/employee/',
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->rows;
+
+}
+
+/**получение клиентов  */
+function getAgent() {
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/counterparty/',
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response;
+
+}
+
+/**получение всех агентов */
+function getAllagent($offset){
+
+    $curl = curl_init();
+
+    curl_setopt_array($curl, array(
+    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/counterparty?limit=1000&offset='.$offset,
+    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
+    CURLOPT_RETURNTRANSFER => true,
+    CURLOPT_ENCODING => '',
+    CURLOPT_MAXREDIRS => 10,
+    CURLOPT_TIMEOUT => 0,
+    CURLOPT_FOLLOWLOCATION => true,
+    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+    CURLOPT_CUSTOMREQUEST => 'GET',
+    CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+    ),
+    ));
+
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+
+    curl_close($curl);
+    return $response->rows;
+}
+
+
+
