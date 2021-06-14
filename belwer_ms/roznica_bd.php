@@ -27,7 +27,7 @@ $data_from = urlencode($data_from);
 // dd($data_from);
 
 // $data_t = $_POST['data_to'];
-$data_t = '2021-05-31';
+$data_t = '2021-05-20';
 $data_t = strtotime($data_t);
 
 $data_to = date($data_t." 23:59:59");                   //дата до
@@ -123,7 +123,7 @@ $Demand = mysqli_query($db,"SELECT * FROM `demand` WHERE `moment`>=$data_fr and 
                     
                     foreach ($getPositions as $product) {                               // получение продуктов
                         // dd((int)$product->price);
-                        // dd($product);exit;
+                        dd($product);
                         if ((int)$product->discount == 0) {
                             $discount = $product->discount;
                             $discount = NULL;
@@ -132,17 +132,24 @@ $Demand = mysqli_query($db,"SELECT * FROM `demand` WHERE `moment`>=$data_fr and 
                         }
                        
                         if ($product->assortment->meta->type == 'product'){             //проверка ассортимента на продукт или вариант
-                            $getProduct = getProduct($product->assortment->meta->href, $discount);
+                            // dd($product->assortment->meta->href);exit;
+                            $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                            $discount = $getProduct_sum/100*$discount;
+                            $getProduct_totalsum = $getProduct_sum - $discount;
+                            // $getProduct = getProduct($product->assortment->meta->href, $discount);
                             // dd($getProduct);
-                            $seller['sum_prodavec_zakaza'] += number_format($getProduct, 2, '.', '');
+                            $seller['sum_prodavec_zakaza'] += number_format($getProduct_totalsum, 2, '.', '');
                         }elseif( $product->assortment->meta->type == 'variant'){
                             // dd($product);exit;
                             // $getProduct = getProduct($product->assortment->meta->href);
-                            $getProductVariant = getProductVariant($product->assortment->meta->href);
+                            $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                            $discount = $getProduct_sum/100*$discount;
+                            $getProduct_totalsum = $getProduct_sum - $discount;
+                            // $getProductVariant = getProductVariant($product->assortment->meta->href);
                             // dd($getProductVariant);
-                            $getProduct = getProduct($getProductVariant, $discount);
+                            // $getProduct = getProduct($getProductVariant, $discount);
                             // dd($getProduct);
-                            $seller['sum_prodavec_zakaza'] += number_format($getProduct, 2, '.', '');
+                            $seller['sum_prodavec_zakaza'] += number_format($getProduct_totalsum, 2, '.', '');
                             // exit;
                         }
 

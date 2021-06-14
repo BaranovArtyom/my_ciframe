@@ -3,11 +3,11 @@ ini_set('display_errors', 'on');
 require_once "funcs.php";
 require_once "config.php";
 
-$size = filesize('logger.log');
-dd($size);
-if ($size>11462000) file_put_contents('logger.log', '');
-dd($size);
-exit;
+// $size = filesize('logger.log');
+// dd($size);
+// if ($size>11462000) file_put_contents('logger.log', '');
+// dd($size);
+// exit;
 /**получение размер продаж розницы*/
 
 $all_retailDemands = array();
