@@ -31,6 +31,7 @@ while ($page < $max_pages) {
             $meta_prod = $prod->meta->href;
             $name_prod = $prod->name;
             $type_prod = $prod->meta->type;
+            $sum_prod = 0;
                 if(isset($prod->attributes)){
                     foreach ($prod->attributes as $attribute) {
                         // dd($attribute);

@@ -4,6 +4,13 @@ require_once 'funcs.php';
 
 /**получение курса валют*/
 $getCurrency = getCurrency();
+// dd($getCurrency->RUB);
+// dd($getCurrency->UAH);
+/**получение валют из мс */
+$getCurrencyMC = getCurrencyMC();
+
+dd($getCurrencyMC);
+exit;
 
 $UAH = $getCurrency->UAH;               // получение курса гривны
 $GBR = $UAH/$getCurrency->GBP;          // получение курса фунта в грн
