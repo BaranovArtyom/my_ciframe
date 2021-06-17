@@ -21,9 +21,10 @@ $currency_ms = array();
         $cur['code'] = $currency->code;
         $cur['isoCode'] = $currency->isoCode;
 
-        if ($currency->isoCode == 'USD') {/**изменение валют в мс данными из exchange */
-            $changeCurrency = changeCurrency($cur['id'], $cur['isoCode'], $cur['code'], $getCurrency->RUB, $cur['name']);
-            dd($changeCurrency);
+        if ($currency->isoCode == 'USD') {  /**изменение валют в мс данными из exchange */
+            file_put_contents('logger.log',date('Y-m-d H:i:s').'  update - '.$getCurrency->RUB."\n",FILE_APPEND);
+            // $changeCurrency = changeCurrency($cur['id'], $cur['isoCode'], $cur['code'], $getCurrency->RUB, $cur['name']);
+            // dd($changeCurrency);
         }
 
         $currency_ms[] = $cur;
