@@ -5,9 +5,9 @@ require_once 'funcs.php';
 /**получение курса валют из exchange*/
 $getCurrency = getCurrency();
 // dd($getCurrency);
-dd($getCurrency->CNY);
-dd($getCurrency->UAH);
-dd($getCurrency->RUB);
+// dd($getCurrency->CNY);
+// dd($getCurrency->UAH);
+// dd($getCurrency->RUB);
 
 /**получение валют из мс */
 $getCurrencyMC = getCurrencyMC();
@@ -28,22 +28,14 @@ $currency_ms = array();
 
         $currency_ms[] = $cur;
     }
-    dd($currency_ms);
-    exit;
-// /**изменение валют в мс данными из exchange */
-// foreach ($currency_ms as $cur_ms) {
-//     if ()
-// }
-
-
-
+// dd($currency_ms);
 // exit;
 
-$UAH = $getCurrency->UAH;               // получение курса гривны
-$GBR = $UAH/$getCurrency->GBP;          // получение курса фунта в грн
-$RUB = $UAH/$getCurrency->RUB;          // получение курса фунта в грн
-$CNY = $UAH/$getCurrency->CNY; 
-$UAH = number_format($UAH, 2, '.', ''); // округление до 2 цифр после запятой
-echo $UAH.'   '.$GBR.'  '.$RUB.' '.$CNY;
+// $UAH = $getCurrency->UAH;               // получение курса гривны
+// $GBR = $UAH/$getCurrency->GBP;          // получение курса фунта в грн
+// $RUB = $UAH/$getCurrency->RUB;          // получение курса фунта в грн
+// $CNY = $UAH/$getCurrency->CNY; 
+// $UAH = number_format($UAH, 2, '.', ''); // округление до 2 цифр после запятой
+// echo $UAH.'   '.$GBR.'  '.$RUB.' '.$CNY;
 
 
