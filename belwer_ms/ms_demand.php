@@ -63,17 +63,26 @@ $getRetailDemand = mysqli_query($db,"SELECT * FROM `retail_demand` WHERE `moment
                             }
                         
                             if ($product->assortment->meta->type == 'product'){             //проверка ассортимента на продукт или вариант
-                                // dd($product->assortment->meta->href);exit;
+                                // dd($product->assortment->meta->href);
                                 $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                                // dd($getProduct_sum);
+                                // echo 'sum'.$getProduct_sum.' '.$roz['number_order'].'<br>';
                                 $discount = $getProduct_sum/100*$discount;
                                 $getProduct_totalsum = $getProduct_sum - $discount;
                                 // $getProduct = getProduct($product->assortment->meta->href, $discount);
-                                // dd($getProduct);
-                                $seller['sum_prodavec_zakaza'] += number_format($getProduct_totalsum, 2, '.', '');
+                                // dd($getProduct_totalsum);
+                                $roz['sum_prodavec_zakaza'] += number_format($getProduct_totalsum, 2, '.', '');
+                                // $roz['sum_prodavec_zakaza'] += $getProduct_totalsum;
+                                // echo 'sum_prodavec_zakaza'.$roz['sum_prodavec_zakaza'].'<br>';
+                                // dd($roz['sum_prodavec_zakaza']);
+
                             }elseif( $product->assortment->meta->type == 'variant'){
                                 // dd($product);exit;
+                                // dd($product->assortment->meta->href);
                                 // $getProduct = getProduct($product->assortment->meta->href);
-                                $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                                $getHref = mysqli_fetch_row(mysqli_query($db,"SELECT href_product FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                                $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$getHref}'"))[0];
+                                // echo 'sum'.$getProduct_sum.' '.$roz['number_order'].'<br>';
                                 $discount = $getProduct_sum/100*$discount;
                                 $getProduct_totalsum = $getProduct_sum - $discount;
                                 // $getProductVariant = getProductVariant($product->assortment->meta->href);
@@ -81,6 +90,9 @@ $getRetailDemand = mysqli_query($db,"SELECT * FROM `retail_demand` WHERE `moment
                                 // $getProduct = getProduct($getProductVariant, $discount);
                                 // dd($getProduct);
                                 $roz['sum_prodavec_zakaza'] += number_format($getProduct_totalsum, 2, '.', '');
+                                // $roz['sum_prodavec_zakaza'] += $getProduct_totalsum;
+                                // echo 'sum_prodavec_zakaza'.$roz['sum_prodavec_zakaza'];
+
                                 // exit;
                             }
 
@@ -93,7 +105,7 @@ $getRetailDemand = mysqli_query($db,"SELECT * FROM `retail_demand` WHERE `moment
             }
         }
     }
-
+// dd($rz);exit;
 /**получение отгрузки */
 $Demand = mysqli_query($db,"SELECT * FROM `demand` WHERE `moment`>=$data_fr and `moment`<=$data_t ORDER BY `demand`.`moment` ASC");
 foreach($Demand as $demand){
@@ -128,17 +140,20 @@ foreach($Demand as $demand){
                         if ($product->assortment->meta->type == 'product'){             //проверка ассортимента на продукт или вариант
                             // dd($product->assortment->meta->href);exit;
                             $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
-                            $discount = $getProduct_sum/100*$discount;
-                            $getProduct_totalsum = $getProduct_sum - $discount;
+                            $discount = (int)$getProduct_sum/100*$discount;
+                            $getProduct_totalsum =(int)$getProduct_sum - $discount;
                             // $getProduct = getProduct($product->assortment->meta->href, $discount);
                             // dd($getProduct);
                             $seller['sum_prodavec_zakaza'] += number_format($getProduct_totalsum, 2, '.', '');
                         }elseif( $product->assortment->meta->type == 'variant'){
                             // dd($product);exit;
                             // $getProduct = getProduct($product->assortment->meta->href);
-                            $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
-                            $discount = $getProduct_sum/100*$discount;
-                            $getProduct_totalsum = $getProduct_sum - $discount;
+                            $getHref = mysqli_fetch_row(mysqli_query($db,"SELECT href_product FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                            $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$getHref}'"))[0];
+
+                            // $getProduct_sum = mysqli_fetch_row(mysqli_query($db,"SELECT sum_prod FROM `products` WHERE  `meta_prod` = '{$product->assortment->meta->href}'"))[0];
+                            $discount = (int)$getProduct_sum/100*$discount;
+                            $getProduct_totalsum = (int)$getProduct_sum - $discount;
                             // $getProductVariant = getProductVariant($product->assortment->meta->href);
                             // dd($getProductVariant);
                             // $getProduct = getProduct($getProductVariant, $discount);
