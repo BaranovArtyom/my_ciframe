@@ -462,67 +462,15 @@ function getAllagent($offset){
     return $response->rows;
 }
 
-/**получение всех продуктов */
-function getProducts(){
 
-    $curl = curl_init();
-
-    curl_setopt_array($curl, array(
-    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/assortment/',
-    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
-    CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_ENCODING => '',
-    CURLOPT_MAXREDIRS => 10,
-    CURLOPT_TIMEOUT => 0,
-    CURLOPT_FOLLOWLOCATION => true,
-    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-    CURLOPT_CUSTOMREQUEST => 'GET',
-    CURLOPT_HTTPHEADER => array(
-        'Content-Type: application/json'
-    ),
-    ));
-
-    $response = curl_exec($curl);
-    $response = json_decode($response);
-
-    curl_close($curl);
-    return $response->meta->size;
-}
-
-/**получение всех продуктов  для базы*/
-function getProductAll($offset){
-
-    $curl = curl_init();
-
-    curl_setopt_array($curl, array(
-    CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/assortment?limit=1000&offset='.$offset,
-    CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8",
-    CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_ENCODING => '',
-    CURLOPT_MAXREDIRS => 10,
-    CURLOPT_TIMEOUT => 0,
-    CURLOPT_FOLLOWLOCATION => true,
-    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-    CURLOPT_CUSTOMREQUEST => 'GET',
-    CURLOPT_HTTPHEADER => array(
-        'Content-Type: application/json'
-    ),
-    ));
-
-    $response = curl_exec($curl);
-    $response = json_decode($response);
-
-    curl_close($curl);
-    return $response->rows;
-}
 
 /**
  * проверка были изменения в ассортименте мс за последние 30 мин
  */
 function checkUpdateassort()  {
-    $today = date("H:i:s",strtotime(date("H:i:s")." -10 minutes"));
+    $today = date("H:i:s",strtotime(date("H:i:s")." -15 minutes"));
     $s = date("Y-m-d");
-    $s = '2021-06-10';
+    // $s = '2021-06-10';
   
     $curl = curl_init();
   
@@ -547,3 +495,67 @@ function checkUpdateassort()  {
     curl_close($curl);
     return $response->rows;
   }
+
+  /**проверка были обновления по отгрузке */
+
+  function checkUpdateDemand()  {
+    $today = date("H:i:s",strtotime(date("H:i:s")." -15 minutes"));
+    $s = date("Y-m-d");
+    // $s = '2021-06-17';
+  
+    $curl = curl_init();
+  
+    curl_setopt_array($curl, array(
+      CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/demand/?filter=updated%3E='.$s.'%20'.$today.'',
+    //   CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/demand/?filter=updated%3E=2021-06-17;',
+      CURLOPT_RETURNTRANSFER => true,
+      CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8", 
+      CURLOPT_ENCODING => '',
+      CURLOPT_MAXREDIRS => 10,
+      CURLOPT_TIMEOUT => 0,
+      CURLOPT_FOLLOWLOCATION => true,
+      CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+      CURLOPT_CUSTOMREQUEST => 'GET',
+      CURLOPT_HTTPHEADER => array(
+        'Content-Type: application/json'
+      ),
+    ));
+  
+    $response = curl_exec($curl);
+    $response = json_decode($response);
+  
+    curl_close($curl);
+    return $response->rows;
+  }
+
+    /**проверка были обновления по отгрузке */
+
+    function checkUpdateReatailDemand()  {
+        $today = date("H:i:s",strtotime(date("H:i:s")." -15 minutes"));
+        $s = date("Y-m-d");
+        // $s = '2021-06-17';
+      
+        $curl = curl_init();
+      
+        curl_setopt_array($curl, array(
+          CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/retaildemand/?filter=updated%3E='.$s.'%20'.$today.'',
+        //   CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/retaildemand/?filter=updated%3E=2021-06-17;',
+          CURLOPT_RETURNTRANSFER => true,
+          CURLOPT_USERPWD=> "admin@belwer312:c1d4d7c3a8", 
+          CURLOPT_ENCODING => '',
+          CURLOPT_MAXREDIRS => 10,
+          CURLOPT_TIMEOUT => 0,
+          CURLOPT_FOLLOWLOCATION => true,
+          CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+          CURLOPT_CUSTOMREQUEST => 'GET',
+          CURLOPT_HTTPHEADER => array(
+            'Content-Type: application/json'
+          ),
+        ));
+      
+        $response = curl_exec($curl);
+        $response = json_decode($response);
+      
+        curl_close($curl);
+        return $response->rows;
+      }
