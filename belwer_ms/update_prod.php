@@ -50,7 +50,7 @@ foreach ($checkUpdateassort as $prod) {
             echo "update".$name_prod;
         }
         dd($sum_prod);
-<<<<<<< HEAD
+// <<<<<<< HEAD
 }
 
 $checkUpdateDemand = checkUpdateDemand();
@@ -115,6 +115,5 @@ foreach ($checkUpdateReatailDemand as $Update_retail) {
         dd($update_ret);
         // echo "update".$number_order_d;
     }
-=======
->>>>>>> 14bc04161b6dd983d415a0688d9fca139de709a1
+
 }
