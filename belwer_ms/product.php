@@ -5,7 +5,6 @@ require_once "funcs.php";
 require_once "config.php";
 
 
-<<<<<<< HEAD
 $checkUpdateassort = checkUpdateassort();
 // dd($checkUpdateassort);exit;
 
@@ -59,8 +58,6 @@ foreach ($checkUpdateassort as $prod) {
 
 
 
-=======
->>>>>>> 14bc04161b6dd983d415a0688d9fca139de709a1
 /**получение всех продуктов */
 $all_products = array();
 $page = 0; $limit = 1000;
