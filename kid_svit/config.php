@@ -8,3 +8,7 @@ define('DB_NAME', 'kid_svit');
 
 $db = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME) or die("Ошибка " . mysqli_error($db));
 mysqli_set_charset($db, 'utf8');
+
+/**пароли для 'https://bot.kiddisvit.ua/KiddisvitServices/hs/ImportDataProductsFile/?format=xml' */
+$KIDD_USER ='IamClient';
+$KIDD_PASSWORD ='BvgjhnAfqkjd@2020';
