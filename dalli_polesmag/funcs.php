@@ -16,8 +16,10 @@ function getOrders() {
     curl_setopt_array($curl, array(
     // CURLOPT_URL => 'https://online.moysklad.ru/api/remap/1.2/entity/customerorder?filter=state=https://online.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/7ccdb391-9538-11eb-0a80-07a5001e1342',
     /**для тестирования */
-    CURLOPT_URL =>'https://online.moysklad.ru/api/remap/1.2/entity/customerorder?filter=state=https://online.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/7ccdb391-9538-11eb-0a80-07a5001e1342',
-    
+    // CURLOPT_URL =>'https://online.moysklad.ru/api/remap/1.2/entity/customerorder?filter=state=https://online.moysklad.ru/api/remap/1.2/entity/customerorder/metadata/states/7ccdb391-9538-11eb-0a80-07a5001e1342',
+    CURLOPT_URL =>'https://online.moysklad.ru/api/remap/1.2/entity/customerorder?filter=state=https://online.moysklad.ru/api/remap/1.3/entity/customerorder/metadata/states/6bdb6315-d3fd-11eb-0a80-083b0006070c',
+
+
     CURLOPT_USERPWD=> "admin@poleznmagaz:ec0055d6bf",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => '',
@@ -151,6 +153,7 @@ function getTypePay($url) {
      */
 
     function createXML ($name, $town, $address, $person, $phone, $date, $time_min, $time_max, $service, $paytype, $price, $inshprice, $its,$pvz=NULL,$email=NULL) {
+        // dd($address);exit;
         $xml = new DomDocument('1.0','utf-8');
         $xml->formatOutput = true;
 
@@ -231,8 +234,8 @@ function getTypePay($url) {
 
             foreach($its as $it){
                 $num = (int)($it['quantity']);
-                $retprice = (int)($it['price']);
-
+                $retprice = ($it['price']);
+                // dd($it);
                 $item = $xml->createElement('item',$it['nameProduct']); // создание тега town
                 $item->setAttribute("quantity", $num );
                 $item->setAttribute("weight", 0 );
@@ -240,7 +243,7 @@ function getTypePay($url) {
                 $items->appendChild($item);
                
             }
-          
+        //   exit;
 
 
         echo '<xmp>'.$xml->saveXML().'</xmp>';

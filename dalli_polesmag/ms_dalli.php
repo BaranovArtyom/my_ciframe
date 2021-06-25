@@ -5,7 +5,7 @@ require_once "funcs.php";
 $orders_dir = __DIR__.'/sync_orders/';       
 $fecha = date("Y-m-d", strtotime('+1 day'));                        //дата формирование заказа для dalli приложения
 // dd($orders_dir);
-dd($fecha);
+// dd($fecha);
 // echo 3;
 
 
@@ -24,6 +24,7 @@ foreach ($ms_orders as $order) {
             // dd($order->positions->meta->href);exit;
             $items = array();
             // для получение товаров
+            $sum = 0;
             $ms_orders_positions =  myCurl($order->positions->meta->href);
             foreach ($ms_orders_positions->rows as $assort){
                 $item['quantity'] = $assort->quantity;
@@ -32,31 +33,40 @@ foreach ($ms_orders as $order) {
                 // dd($ms_orders_positions_assort);die();
                 $item['nameProduct'] = $ms_orders_positions_assort->name;
                 $items[] = $item;
+                $sum += $item['price'];
             }
-            // dd($items);exit;
+            dd($sum);
+            dd($items);
             // echo $quantity;
             // dd($ms_orders_positions->rows);die();
             $orders['name'] = $order->name; // номер заказа 
             // dd($orders['name']);exit;
             $orders['date'] = $fecha;       // дата заказа
             $orders['total_sum'] = substr($order->sum, 0, -2) . '.00';    // привели сумму к нужному формату
+            // dd($order->sum);exit;
             $orders['positions'] = $order->positions->meta->href;
             $orders['organization'] = $order->organization->meta->href;
             $orders['agent'] = $order->agent->meta->href;
             // dd($orders);exit;
             foreach ($order->attributes as $attribut) {
                 // dd($attribut);
+                // dd($attribut->name);
+                // dd($attribut->value);
                 if ( $attribut->name == 'Телефон')
                 $orders['phone'] = $attribut->value;
-                if ( $attribut->name == 'Адрес доставки')
-                // $orders['address'] = $attribut->value;
-                // dd($orders['address']);
+                if ( $attribut->name == 'Адрес доставки'){
+                    $orders['address'] = $attribut->value;
+                    // dd($orders['address']);
+                }
+               
                 // if ( $attribut->name == 'Номер заказа ИМ')
                 // $orders['nomer_zakaza'] = $attribut->value;
 
-                if ( $attribut->name == 'Время доставки')
-                $orders['dostavka'] = $attribut->value;
-                // dd($orders['dostavka']);
+                if ( $attribut->name == 'Время доставки'){
+                    $orders['dostavka'] = $attribut->value;
+                    dd($orders['dostavka']);
+                }
+              
 
                 if ( $attribut->name == 'Город')
                 $orders['town'] = $attribut->value;
@@ -70,6 +80,8 @@ foreach ($ms_orders as $order) {
                 if ( $attribut->name == 'Отделение BOXBERRY')
                 $orders['pvz_code'] = $attribut->value->meta->href;
             }
+            // dd($orders['dostavka']);
+            // exit;
             $orders['type_dostavka'] = getTypeDelivery($orders['type_dostavka']); // получение номера service
             // dd($orders['type_dostavka']);
             if ($orders['type_dostavka']=='13'){
@@ -96,11 +108,11 @@ foreach ($ms_orders as $order) {
                 $agentGetData = myCurl($orders['agent']);                   // получение даныых о заказчике ФИО, эмаил
                     $orders['agent_fio'] = $agentGetData->name; 
                     $orders['agent_email'] = $agentGetData->email; 
-                    $orders['actualAddress'] = $agentGetData->actualAddress;
-                    $address = explode(",",$orders['actualAddress']);
-                    $adress = $address[1].$address[2];
+                    // $orders['actualAddress'] = $agentGetData->actualAddress;
+                    // $address = explode(",",$orders['actualAddress']);
+                    // $adress = $address[1].$address[2];
                     // dd($adress);
-                $orders['address'] = $adress; 
+                // $orders['address'] = $adress; 
 
             // dd($agentGetData);
             // dd($orders['agent_email']);exit;
@@ -116,16 +128,17 @@ foreach ($ms_orders as $order) {
             // dd($type_dostavky);die();
             // dd($time_min);dd($time_max);
             // dd($dostavka_time);
-            dd($orders);
-
-            // $orders['name'] = "888887"; //имя для теста
+            // dd($orders);
+            dd($orders['address']);
+            $orders['name'] = "888889"; //имя для теста
             if (!empty($orders)) {
                 $barcode = '';
                 //создание xml для отправки
-                $createOrders = createXML($orders['name'], $orders['town'], $orders['address'], $orders['agent_fio'], $orders['phone'], $orders['date'], $time_min, $time_max, $orders['type_dostavka'], $orders['payments'], $orders['total_sum'], $orders['inshprice'], $items, $orders['pvz_code'],$orders['agent_email']);
-            
+                $createOrders = createXML($orders['name'], $orders['town'], $orders['address'], $orders['agent_fio'], $orders['phone'], $orders['date'], $time_min, $time_max, $orders['type_dostavka'], $orders['payments'], $sum, $sum, $items, $orders['pvz_code'],$orders['agent_email']);
+                dd($createOrders);
                 //добавляем заказ в корзину
                 $createOrderBasketDalli = createOrdersInDally('https://api.dalli-service.com/v1/index.php', $createOrders); // добавление заказа в корзину 
+                dd($createOrderBasketDalli);
                 $checks = simplexml_load_string($createOrderBasketDalli);
                 // dd($checks);
                 /**логирование ошибок при переносе в корзину*/
@@ -137,7 +150,7 @@ foreach ($ms_orders as $order) {
                         $number = $check['number'];           // запоминаем номер заказа
 
                         foreach($check->error as $error){
-                            dd($error['errorMessage']);
+                            // dd($error['errorMessage']);
                             file_put_contents('logger.log',date('Y-m-d H:i:s').'  создания заказа - '.$number.' ошибки по заказу '.$error['errorMessage']."\n",FILE_APPEND);
                         }
                     }
