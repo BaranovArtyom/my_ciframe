@@ -20,23 +20,13 @@ $currency_ms = array();
         $cur['rate'] = $currency->rate;
         $cur['code'] = $currency->code;
         $cur['isoCode'] = $currency->isoCode;
+        $curs = round($getCurrency->RUB,0);
 
-        if ($currency->isoCode == 'USD') {  /**изменение валют в мс данными из exchange */
+        if ($currency->isoCode == 'USD') {/**изменение валют в мс данными из exchange */
+            $changeCurrency = changeCurrency($cur['id'], $cur['isoCode'], $cur['code'], $curs, $cur['name']);
+            dd($changeCurrency);
             file_put_contents('logger.log',date('Y-m-d H:i:s').'  update - '.$getCurrency->RUB."\n",FILE_APPEND);
-            // $changeCurrency = changeCurrency($cur['id'], $cur['isoCode'], $cur['code'], $getCurrency->RUB, $cur['name']);
-            // dd($changeCurrency);
         }
 
         $currency_ms[] = $cur;
     }
-// dd($currency_ms);
-// exit;
-
-// $UAH = $getCurrency->UAH;               // получение курса гривны
-// $GBR = $UAH/$getCurrency->GBP;          // получение курса фунта в грн
-// $RUB = $UAH/$getCurrency->RUB;          // получение курса фунта в грн
-// $CNY = $UAH/$getCurrency->CNY; 
-// $UAH = number_format($UAH, 2, '.', ''); // округление до 2 цифр после запятой
-// echo $UAH.'   '.$GBR.'  '.$RUB.' '.$CNY;
-
-
