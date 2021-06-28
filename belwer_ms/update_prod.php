@@ -50,7 +50,6 @@ foreach ($checkUpdateassort as $prod) {
             echo "update".$name_prod;
         }
         dd($sum_prod);
-// <<<<<<< HEAD
 }
 
 $checkUpdateDemand = checkUpdateDemand();
