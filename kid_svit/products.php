@@ -27,7 +27,7 @@ $products = new SimpleXMLElement($getProduct);                  //
         // dd($rekomenden_year);
         if (!$check=mysqli_fetch_row(mysqli_query($db,"SELECT `name_product` FROM `products`  WHERE `artikul`= '{$product->Артикул}'"))[0]){
             
-        /**заполнение таблицы в products в бд */
+        /**заполнение таблицы в ci_kiddsvit_goods в бд */
 
             $insertProd = mysqli_query($db,"INSERT INTO `products` (`id`,`artikul`,`name_product`,`price`,`quantity`,`shelf_life`,`power_need`,`batteries`,`material`,`color`,`komplekt_in`,`made_in`,`rekomenden_year`,`play_to`,
             `sex`,`status_product`,`type_individual_pack`,`code`,`name_N1`,`brand`,`proizvoditel`,`sub_category`,`video`,`href_site`,`href_image`,`descption`,`barcode`,`length`,`width`,`height`,
