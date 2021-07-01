@@ -111,5 +111,5 @@ while ($page < $max_pages_agent) {
     $page++;
 }
 
-$size = filesize('logger.log');
-if ($size>11462000) file_put_contents('logger.log', '');
+// $size = filesize('logger.log');
+// if ($size>11462000) file_put_contents('logger.log', '');
