@@ -7,7 +7,7 @@ $logger = __DIR__.'/ci_log.log';                                // создан�
 $size_logger = filesize($logger);
 if ( $size_logger>5462000 ) file_put_contents($logger, '');    // 5mb , проверка на размер лога если более 11mb очистка
 
-$getProduct = getProduct($KIDD_USER, $KIDD_PASSWORD);           // получение товаров из ссылки
+$getProduct = getProduct($conf['user'], $conf['password']);           // получение товаров из ссылки
 // dd($getProduct);exit;
 $products = new SimpleXMLElement($getProduct);                  // 
 
