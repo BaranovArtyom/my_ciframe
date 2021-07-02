@@ -10,16 +10,26 @@ define('DB_NAME', 'c_integr');
 $db = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME) or die("Ошибка " . mysqli_error($db));
 mysqli_set_charset($db, 'utf8');
 
+/**доступы по хорошоп  */
+$config_horoshop = array();
+$horoshop['login'] = 'ciframe'; 
+$horoshop['password'] = 'sxfuoacfw';
+$horoshop['token'] = getToken($horoshop['login'],$horoshop['password']);
+ 
+$config_horoshop = $horoshop;
+// dd($config_horoshop);exit;
+
 /**пароли для 'https://bot.kiddisvit.ua/KiddisvitServices/hs/ImportDataProductsFile/?format=xml' */
 $NAME_SITE = 'kiddisvit.ua';
 
-$config = array();
+$config_kiddisvit = array();
 $conf['password'] ='BvgjhnAfqkjd@2020';     // пароль 
 $conf['user'] = 'IamClient';                // user
 
-$config = $conf;
+$config_kiddisvit = $conf;
 
-    foreach ($config as $key=>$data) {
+/**Добавление в базу config kidd_svit */
+    foreach ($config_kiddisvit as $key=>$data) {
         $check_config = '';
         // dd($data);
         $check_config= mysqli_query($db,"SELECT `name` FROM `ci_config`  WHERE `value`='{$data}' "); //проверка на существование конфига

@@ -12,7 +12,20 @@ $size_logger = filesize($logger);
 $getProduct = getProduct($conf['user'], $conf['password']);          // получение товаров из ссылки
 $products = new SimpleXMLElement($getProduct);                   
 
-foreach ($products as $product) {                                    // проверка на существование в таблице
+foreach ($products as $product) {       
+    
+    $name_product = addslashes($product->НаименованиеПолное); // экранирование имени
+    // $power_need = addslashes($product->Питание);
+    // $material = addslashes($product->Материал);
+    // $komplekt_in = addslashes($product->В_комплект_входит);
+    // $made_in = addslashes($product->Страна_происхождения);
+    // $rekomenden_year = addslashes($product->Рекомендация_по_возрасту_от);
+    // $name_N1 = addslashes($product->Наименование_Н1); 
+    // $brand = addslashes($product->Бренд);
+    // $proizvoditel = addslashes($product->Производитель);
+    // $href_image = addslashes($product->Путь_к_файлу_с_изображением_FTP);
+    // $descption = addslashes($product->Описание);
+    $sku = addslashes($product->Артикул);// проверка на существование в таблице
 
         if (!$check=mysqli_fetch_row(mysqli_query($db,"SELECT `name` FROM `ci_kiddsvit_goods`  WHERE `sku`= '{$product->Артикул}'"))[0]){
 
