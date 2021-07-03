@@ -7,7 +7,7 @@ $logger = __DIR__.'/ci_log.log';                                // создан�
 $size_logger = filesize($logger);
 if ( $size_logger>5462000 ) file_put_contents($logger, '');    // 5mb , проверка на размер лога если более 11mb очистка
 
-$getProduct = getProduct($KIDD_USER, $KIDD_PASSWORD);           // получение товаров из ссылки
+$getProduct = getProduct($conf['user'], $conf['password']);           // получение товаров из ссылки
 // dd($getProduct);exit;
 $products = new SimpleXMLElement($getProduct);                  // 
 
@@ -27,7 +27,7 @@ $products = new SimpleXMLElement($getProduct);                  //
         // dd($rekomenden_year);
         if (!$check=mysqli_fetch_row(mysqli_query($db,"SELECT `name_product` FROM `products`  WHERE `artikul`= '{$product->Артикул}'"))[0]){
             
-        /**заполнение таблицы в products в бд */
+        /**заполнение таблицы в ci_kiddsvit_goods в бд */
 
             $insertProd = mysqli_query($db,"INSERT INTO `products` (`id`,`artikul`,`name_product`,`price`,`quantity`,`shelf_life`,`power_need`,`batteries`,`material`,`color`,`komplekt_in`,`made_in`,`rekomenden_year`,`play_to`,
             `sex`,`status_product`,`type_individual_pack`,`code`,`name_N1`,`brand`,`proizvoditel`,`sub_category`,`video`,`href_site`,`href_image`,`descption`,`barcode`,`length`,`width`,`height`,
