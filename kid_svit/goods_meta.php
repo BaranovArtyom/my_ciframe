@@ -14,10 +14,7 @@ $getProduct = getProduct($conf['user'], $conf['password']);           // пол�
 // dd($getProduct);exit;
 $products = new SimpleXMLElement($getProduct);                  // 
 /**получение товаров из таблицы ci_kiddsvit_goods */
-
 // dd($getGoods['name']);
-
-// exit;
 
 foreach ($products as $product) {                           // проверка на существование в таблице
     // dd($product);
@@ -37,44 +34,33 @@ foreach ($products as $product) {                           // проверка 
 
     $getGoodId = mysqli_fetch_assoc(mysqli_query($db,"SELECT id FROM `ci_kiddsvit_goods` WHERE `sku`='{$sku}'"));
     // dd($getGoodId);exit;
-    foreach ($product as $k=>$attr) {
+    // dd($product);
+    foreach ($product as $key=>$attr) {
         $attr = addslashes($attr); 
-        $check = '';
-        // dd($getGoodId['id']);
-        // $check=mysqli_fetch_row(mysqli_query($db,"SELECT `meta_key` FROM `ci_kiddsvit_goods_meta`  WHERE `id_goods`= '{$getGoodId['id']}' AND `meta_key`='{$k}' "))[0];
-        // dd((mysqli_fetch_row(mysqli_query($db,"SELECT `meta_key` FROM `ci_kiddsvit_goods_meta`  WHERE `id_goods`= '{$getGoodId['id']}' AND `meta_key`='{$key}' "))['meta_key']));
-        // $val = mysqli_fetch_assoc(mysqli_query($db,"SELECT `meta_key` FROM `ci_kiddsvit_goods_meta`  WHERE `id_goods`= '{$getGoodId['id']}' AND `meta_key`='{$key}' "))['meta_key'];
-        // echo $check;
-        // exit;
-        echo $k.' - '.$attr.' - '.$getGoodId['id'].'<br>';
-        // exit;
-            if (!$check=mysqli_fetch_row(mysqli_query($db,"SELECT `meta_key` FROM `ci_kiddsvit_goods_meta`  WHERE `id_goods`= '{$getGoodId['id']}' AND `meta_key`='{$k}' "))[0]){
-                // $check = mysqli_fetch_assoc(mysqli_query($db,"SELECT `meta_key` FROM `ci_kiddsvit_goods_meta`  WHERE `id_goods`= '{$getGoodId['id']}' AND `meta_key`='{$key}' "))['meta_key'];
-            /**заполнение таблицы в ci_kiddsvit_goods в бд */
-            // echo 'insert '.$check;
-            echo $k.' - '.$attr.' - '.$getGoodId['id'].'<br>';
-            $insertProd = mysqli_query($db,"INSERT INTO `ci_kiddsvit_goods_meta` (`id`,`id_goods`,`meta_key`,`meta_value`) 
-                VALUES (NULL,'{$getGoodId['id']}','{$k}','{$attr}') ");
+      
+            $getGood = $getGoodId['id'];
+             // unset($count);
+            $count = mysqli_query($db,"SELECT COUNT(*) FROM `ci_kiddsvit_goods_meta` WHERE `id_goods` = '$getGood' AND `meta_key` LIKE '$key'");
+
+            $count = mysqli_fetch_assoc($count);
+
+            if ($count['COUNT(*)'] == 0){
+               echo '<br>'.'insert'. $key.' '.$attr.' '.$getGoodId['id'].'<br>';
+                /**заполнение таблицы в ci_kiddsvit_goods в бд */
+                    mysqli_query($db,"INSERT INTO `ci_kiddsvit_goods_meta` (`id`,`id_goods`,`meta_key`,`meta_value`)  VALUES (NULL,'{$getGoodId['id']}','{$key}','{$attr}') ");
                     if (mysqli_error($db)) {                        // проверка на  ошибку в запросе mysql записью в лог
                         file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
                     }
-                echo "insert".$product->Артикул.' '.$check."<br>";
-                
+                echo "insert".$product->Артикул."<br>";
             }else {
-                $updateProd = mysqli_query($db,"UPDATE `ci_kiddsvit_goods_meta` SET `id_goods`='{$getGoodId['id']}',`meta_key`='{$k}',`meta_value`= '{$attr}'
-                WHERE `id_goods`= '{$getGoodId['id']}'");
+                mysqli_query($db,"UPDATE `ci_kiddsvit_goods_meta` SET `meta_value`= '{$attr}' WHERE `meta_key`= '{$key}' AND `id_goods`= '{$getGoodId['id']}'");
+                // mysqli_query($db,"UPDATE `ci_kiddsvit_goods_meta` SET `id_goods`='{$getGoodId['id']}',`meta_key`='{$key}',`meta_value`= '{$attr}' WHERE `id_goods`= '{$getGoodId['id']}'");
+                // echo '<br>'. $key.' '.$attr.' '.$getGoodId['id'].'<br>';
                 if (mysqli_error($db)) {                            // проверка на  ошибку в запросе mysql записью в лог
                     file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
                 }
                 echo "update".$product->Артикул."<br>";
-                
             }
-    }exit;
-    // dd($getGood);
-    // echo $getGood['id']; 
+    }
     // exit;
-
-        
-
-
 }
