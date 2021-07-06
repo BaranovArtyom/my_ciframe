@@ -13,34 +13,35 @@ $getProduct = getProduct($conf['user'], $conf['password']);          // полу
 $products = new SimpleXMLElement($getProduct);                   
 
 foreach ($products as $product) {   
-    $name_product = addslashes($product->НаименованиеПолное); // экранирование имени
-    $power_need = addslashes($product->Питание);
-    $material = addslashes($product->Материал);
-    $komplekt_in = addslashes($product->В_комплект_входит);
-    $made_in = addslashes($product->Страна_происхождения);
-    $rekomenden_year = addslashes($product->Рекомендация_по_возрасту_от);
-    $name_N1 = addslashes($product->Наименование_Н1); 
-    $brand = addslashes($product->Бренд);
-    $proizvoditel = addslashes($product->Производитель);
-    $href_image = addslashes($product->Путь_к_файлу_с_изображением_FTP);
-    $descption = addslashes($product->Описание);
-    $sku = addslashes($product->Артикул);                                 // проверка на существование в таблице
+    dd($product);
+    // $name_product = addslashes($product->НаименованиеПолное); // экранирование имени
+    // $power_need = addslashes($product->Питание);
+    // $material = addslashes($product->Материал);
+    // $komplekt_in = addslashes($product->В_комплект_входит);
+    // $made_in = addslashes($product->Страна_происхождения);
+    // $rekomenden_year = addslashes($product->Рекомендация_по_возрасту_от);
+    // $name_N1 = addslashes($product->Наименование_Н1); 
+    // $brand = addslashes($product->Бренд);
+    // $proizvoditel = addslashes($product->Производитель);
+    // $href_image = addslashes($product->Путь_к_файлу_с_изображением_FTP);
+    // $descption = addslashes($product->Описание);
+    // $sku = addslashes($product->Артикул);                                 // проверка на существование в таблице
 
-        if (!$check=mysqli_fetch_row(mysqli_query($db,"SELECT `name` FROM `ci_kiddsvit_goods`  WHERE `sku`= '{$product->Артикул}'"))[0]){
+    //     if (!$check=mysqli_fetch_row(mysqli_query($db,"SELECT `name` FROM `ci_kiddsvit_goods`  WHERE `sku`= '{$product->Артикул}'"))[0]){
 
-        /**заполнение таблицы в ci_kiddsvit_goods в бд */
-        $insertProd = mysqli_query($db,"INSERT INTO `ci_kiddsvit_goods` (`id`,`name`,`sku`,`price`,`qty`,`type`,`updated`) 
-                                        VALUES (NULL,'{$name_product}','{$product->Артикул}','{$product->Цена}','{$product->КоличествоОстаток}','product','{$current_time}') ");
-                if (mysqli_error($db)) {                        // проверка на  ошибку в запросе mysql записью в лог
-                    file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
-                }
-        echo "insert".$product->Артикул."<br>";
-        }else {
-            $updateProd = mysqli_query($db,"UPDATE `ci_kiddsvit_goods` SET `sku` = '{$product->Артикул}',`name` = '{$name_product}',`price`= '{$product->Цена}',
-                                      `qty`='{$product->КоличествоОстаток}',`updated`='{$current_time}' WHERE `sku`= '{$product->Артикул}'");
-            if (mysqli_error($db)) {                            // проверка на  ошибку в запросе mysql записью в лог
-                file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
-            }
-        echo "update".$product->Артикул."<br>";
-        }
+    //     /**заполнение таблицы в ci_kiddsvit_goods в бд */
+    //     $insertProd = mysqli_query($db,"INSERT INTO `ci_kiddsvit_goods` (`id`,`name`,`sku`,`price`,`qty`,`type`,`updated`) 
+    //                                     VALUES (NULL,'{$name_product}','{$product->Артикул}','{$product->Цена}','{$product->КоличествоОстаток}','product','{$current_time}') ");
+    //             if (mysqli_error($db)) {                        // проверка на  ошибку в запросе mysql записью в лог
+    //                 file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
+    //             }
+    //     echo "insert".$product->Артикул."<br>";
+    //     }else {
+    //         $updateProd = mysqli_query($db,"UPDATE `ci_kiddsvit_goods` SET `sku` = '{$product->Артикул}',`name` = '{$name_product}',`price`= '{$product->Цена}',
+    //                                   `qty`='{$product->КоличествоОстаток}',`updated`='{$current_time}' WHERE `sku`= '{$product->Артикул}'");
+    //         if (mysqli_error($db)) {                            // проверка на  ошибку в запросе mysql записью в лог
+    //             file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
+    //         }
+    //     echo "update".$product->Артикул."<br>";
+    //     }
 }

@@ -181,6 +181,7 @@ function getAllGoods($offset ,$token,$limit) {
     $post['offset'] = $offset;
     $post['token'] = $token;
     $post['limit'] = $limit;
+    $post['includedParams'] =  ["price", "price_old", "title"];
     // $post = $postData;
     // dd($post);exit;
     $post = json_encode($post, 256);
