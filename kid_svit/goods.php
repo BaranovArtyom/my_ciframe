@@ -13,6 +13,10 @@ $getProduct = getProduct($conf['user'], $conf['password']);          // полу
 $products = new SimpleXMLElement($getProduct);                   
 
 foreach ($products as $product) {   
+    // dd($product);
+    // dd($key);
+    $price = str_replace(',','.',$product->Цена);
+    dd($price);
     $name_product = addslashes($product->НаименованиеПолное); // экранирование имени
     $power_need = addslashes($product->Питание);
     $material = addslashes($product->Материал);
@@ -30,13 +34,13 @@ foreach ($products as $product) {
 
         /**заполнение таблицы в ci_kiddsvit_goods в бд */
         $insertProd = mysqli_query($db,"INSERT INTO `ci_kiddsvit_goods` (`id`,`name`,`sku`,`price`,`qty`,`type`,`updated`) 
-                                        VALUES (NULL,'{$name_product}','{$product->Артикул}','{$product->Цена}','{$product->КоличествоОстаток}','product','{$current_time}') ");
+                                        VALUES (NULL,'{$name_product}','{$product->Артикул}','{$price}','{$product->КоличествоОстаток}','product','{$current_time}') ");
                 if (mysqli_error($db)) {                        // проверка на  ошибку в запросе mysql записью в лог
                     file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);
                 }
         echo "insert".$product->Артикул."<br>";
         }else {
-            $updateProd = mysqli_query($db,"UPDATE `ci_kiddsvit_goods` SET `sku` = '{$product->Артикул}',`name` = '{$name_product}',`price`= '{$product->Цена}',
+            $updateProd = mysqli_query($db,"UPDATE `ci_kiddsvit_goods` SET `sku` = '{$product->Артикул}',`name` = '{$name_product}',`price`= '{$price}',
                                       `qty`='{$product->КоличествоОстаток}',`updated`='{$current_time}' WHERE `sku`= '{$product->Артикул}'");
             if (mysqli_error($db)) {                            // проверка на  ошибку в запросе mysql записью в лог
                 file_put_contents('ci_log.log',date('Y-m-d H:i:s').'  ошибка в бд - '.mysqli_error($db).'  '.$name_product."\n",FILE_APPEND);

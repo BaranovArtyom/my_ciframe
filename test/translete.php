@@ -1,8 +1,6 @@
 <?php
 
 // Из кириллицы в латиницу
-
-
 function transliterateen($input){
 $gost = array(
 "a"=>"а","b"=>"б","v"=>"в","g"=>"г","d"=>"д","e"=>"е","yo"=>"ё",
@@ -21,7 +19,6 @@ return strtr($input, $gost);
 }
 
 // Из латиницы в кириллицу
-
 function transliterate($input){
 $gost = array(
 "а"=>"a","б"=>"b","в"=>"v","г"=>"g","д"=>"d",
