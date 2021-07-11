@@ -3,7 +3,7 @@ require_once 'funcs.php';
 /**соединения с базой */
 define('DB_HOST', 'localhost');
 define('DB_USER', 'sasha');
-define('DB_PASSWORD', 'password');
+define('DB_PASSWORD', 'пароль');
 define('DB_NAME', 'c_integr');
 
 $db = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME) or die("Ошибка " . mysqli_error($db));

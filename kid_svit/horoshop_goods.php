@@ -23,18 +23,18 @@ $allGoods = array();
 $getGoods = array();
 
 $isProduct = true;
-while ($isProduct == true) {
+while ($isProduct) {
     // $getGoods = array();
     $offset = $page * $limit;
     $getGoods = getAllGoods($offset ,$config_horoshop['token'],$limit);
     dd($offset);
-    dd($getGoods);
+    // dd($getGoods);
 
-    // $allGoods[] = $getGoods;
+    $allGoods[] = $getGoods;
 
-    if ($offset == 16500) {
-    //     echo "empty";
-        $isProduct = false;
+    if (!$getGoods) {
+    echo "empty";
+    exit;
     }
     // $allGoods = array_merge($allGoods, $getGoods);
     $page++;
